@@ -1,11 +1,11 @@
 [
 	{
 		"count": 652,
-		"next": "app/assets/database/067-108.json",
-		"previous": "app/assets/database/01-028.json",
+		"next": "https://abgmz.github.io/json-api-vnp/067-108.json",
+		"previous": "https://abgmz.github.io/json-api-vnp/01-028.json",
 		"lyrics": [
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 29,
 				"author": "",
 				"year": "",
@@ -14,7 +14,7 @@
 				"lyric": "<div class='strophe'> <p>Bendeciré al Señor con toda mi alma.</p></div><div class='chorus'> <p>¡Cuán grande eres, Señor y Dios mío!</p><p>Te has vestido de gloria y esplendor;</p><p>Te has envuelto en un manto de luz.</p></div><div class='strophe'> <p>Tú extendiste el cielo como un velo.</p></div><div class='chorus'> <p>Conviertes las nubes en tu carro;</p><p>viajas sobre las alas del viento.</p><p>Los vientos son tus mensajeros y</p><p>las llamas de fuego tus servidores.</p></div><div class='strophe'> <p>¡Cuántas cosas has hecho, Señor!</p><p>Todas las hiciste con sabiduría;</p><p>la tierra está llena de todo lo que has creado.</p></div><div class='chorus'> <p>La gloria del Señor es eterna.</p><p>El Señor se alegra en su creación.</p></div><div class='strophe'> <p>Mientras yo exista y tenga vida cantaré himnos</p><p>alSeñor mi Dios.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 30,
 				"author": "Faustino Martínez",
 				"year": "",
@@ -23,7 +23,7 @@
 				"lyric": "<div class='strophe'> <p>En la voz de los raudos huracanes,</p><p>En el plácido arroyo, en el torrente,</p><p>En el fuego, en la llama, en los volcanes:</p><p>Allí, gran Dios, mi corazón te siente.</p></div><div class='strophe'> <p>En los vergeles del florido mayo,</p><p>En los dulces acordes de la lira,</p><p>En la lluvia, en el trueno y en el rayo:</p><p>Allí, gran Dios, mi corazón te admira.</p></div><div class='strophe'> <p>En el aroma que a los cielos sube,</p><p>En el árbol que erguido se levanta,</p><p>En la sombra, en el astro y en la nube:</p><p>Allí, gran Dios, mi corazón te canta.</p></div><div class='strophe'> <p>En los trémulos rayos de la lumbre,</p><p>En el ósculo suave de la aurora,</p><p>En la hondura, en el llano y en la cumbre:</p><p>Allí, gran Dios, mi corazón te adora.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 31,
 				"author": "Stuart K. Hine",
 				"year": "1948",
@@ -32,7 +32,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Dios ha hecho todo lo que el ojo ve,</p><p>Cada cosa de este mundo terrenal.</p><p>Todo árbol y las plantas son de él,</p><p>Las estrellas y el manto celestial.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Sea ya la luz!” ordenó Jehová</p><p>Con su fuerte voz, y la luz fue ya.</p><p>Hoy el buen Jesús, nuestro Redentor,</p><p>Brinda al mundo luz con excelso amor.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>A su imagen Dios formó al hombre Adán;</p><p>Luego hizo una mujer tomada de él;</p><p>Y los colocó en el Jardín de Edén,</p><p>Donde habían de seguirle siempre fiel.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Sea ya la luz!” ordenó Jehová</p><p>Con su fuerte voz, y la luz fue ya.</p><p>Hoy el buen Jesús, nuestro Redentor,</p><p>Brinda al mundo luz con excelso amor.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>El perfecto gozo había en el Edén;</p><p>Ellos se gozaban al andar con Dios.</p><p>Comunión completa había allá también</p><p>Al oír de Jehová la tierna voz.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Sea ya la luz!” ordenó Jehová</p><p>Con su fuerte voz, y la luz fue ya.</p><p>Hoy el buen Jesús, nuestro Redentor,</p><p>Brinda al mundo luz con excelso amor.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 32,
 				"author": "Stuart K. Hine",
 				"year": "1948",
@@ -41,7 +41,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Señor, mi Dios, al contemplar los cielos,</p><p>El firmamento y las estrellas mil,</p><p>Al oír tu voz en los potentes truenos</p><p>Y ver brillar el sol en su cenit,</p></div><div class='chorus'> <span class='chorus__title'>Coro:</span> <p>// Mi corazón entona la canción,</p><p>¡Cuán grande es él! ¡Cuán grande es él! //</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Al recorrer los montes y los valles</p><p>Y ver las bellas flores al pasar,</p><p>Al escuchar el canto de las aves</p><p>Y el murmurar del claro manantial,</p></div><div class='chorus'> <span class='chorus__title'>Coro:</span> <p>// Mi corazón entona la canción,</p><p>¡Cuán grande es él! ¡Cuán grande es él! //</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Cuando recuerdo del amor divino</p><p>Que desde el cielo al Salvador envió,</p><p>Aquel Jesús que por salvarme vino</p><p>Y en una cruz sufrió por mí y murió,</p></div><div class='chorus'> <span class='chorus__title'>Coro:</span> <p>// Mi corazón entona la canción,</p><p>¡Cuán grande es él! ¡Cuán grande es él! //</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Cuando el Señor me llame a su presencia,</p><p>Al dulce hogar, al cielo de esplendor,</p><p>Le adoraré cantando la grandeza</p><p>De su poder y su infinito amor:</p></div><div class='chorus'> <span class='chorus__title'>Coro:</span> <p>// Mi corazón entona la canción,</p><p>¡Cuán grande es él! ¡Cuán grande es él! //</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 33,
 				"author": "Francisco de Asís",
 				"year": "1225",
@@ -50,7 +50,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Oh, criaturas del Señor,</p><p>Cantad con melodiosa voz: ¡Alabadle! ¡Aleluya!</p><p>Ardiente sol con tu fulgor;</p><p>Oh, luna de suave esplendor:</p></div><div class='chorus'> <span class='chorus__title'>Coro:</span> <p>¡Alabadle! ¡Alabadle!</p><p>¡Aleluya! ¡Aleluya! ¡Aleluya!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Viento veloz, potente alud,</p><p>Nubes en claro cielo azul: ¡Alabadle! ¡Aleluya!</p><p>Suave, dorado amanecer;</p><p>Tu manto, noche, al extender:</p></div><div class='chorus'> <span class='chorus__title'>Coro:</span> <p>¡Alabadle! ¡Alabadle!</p><p>¡Aleluya! ¡Aleluya! ¡Aleluya!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Oh, fuentes de agua de cristal,</p><p>A vuestro Creador cantad: ¡Alabadle! ¡Aleluya!</p><p>Oh, fuego, eleva tu loor, tú que nos das luz y calor:</p></div><div class='chorus'> <span class='chorus__title'>Coro:</span> <p>¡Alabadle! ¡Alabadle!</p><p>¡Aleluya! ¡Aleluya! ¡Aleluya!</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Pródiga tierra maternal,</p><p>Que frutos brindas sin cesar: ¡Alabadle! ¡Aleluya!</p><p>Rica cosecha, bella flor, magnificad al Creador:</p></div><div class='chorus'> <span class='chorus__title'>Coro:</span> <p>¡Alabadle! ¡Alabadle!</p><p>¡Aleluya! ¡Aleluya! ¡Aleluya!</p></div><div class='strophe'> <span class='strophe__number'>5</span> <p>Con gratitud y con amor,</p><p>Cante la entera creación: ¡Alabadle! ¡Aleluya!</p><p>Al Padre, al Hijo Redentor,</p><p>y al Eternal Consolador:</p></div><div class='chorus'> <span class='chorus__title'>Coro:</span> <p>¡Alabadle! ¡Alabadle!</p><p>¡Aleluya! ¡Aleluya! ¡Aleluya!</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 34,
 				"author": "Aracely C. de Alvarez",
 				"year": "1986",
@@ -59,7 +59,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Cuando miro las estrellas en el cielo por doquier,</p><p>Cuando veo que destellan y me muestran tu poder,</p><p>Cuando veo el sol radiante y la luna en su fulgor,</p><p>Todos a una voz me dicen que tú eres el Creador.</p></div><div class='chorus'> <span class='chorus__title'>Coro:</span> <p>Y creo en ti, en ti, sólo en ti, Señor,</p><p>Y creo en ti, en ti como el Creador;</p><p>Y creo en ti, en ti, sólo en ti, Señor,</p><p>Y creo en ti, en ti como el Creador.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Cuando miro las montañas,</p><p>los arroyos y el mar,</p><p>Cuando nace la mañana con el sol al despuntar,</p><p>Cuando veo un bebecito y el cuidado maternal,</p><p>Con el corazón repito</p><p>que mi Dios es el Creador.</p></div><div class='chorus'> <span class='chorus__title'>Coro:</span> <p>Y creo en ti, en ti, sólo en ti, Señor,</p><p>Y creo en ti, en ti como el Creador;</p><p>Y creo en ti, en ti, sólo en ti, Señor,</p><p>Y creo en ti, en ti como el Creador.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 35,
 				"author": "Joseph Addison",
 				"year": "1712",
@@ -68,7 +68,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>El firmamento de esplendor,</p><p>do estrellas lucen su fulgor,</p><p>El sol y luna con placer, de Dios proclaman el poder.</p><p>El alba con su claridad de él anuncia majestad;</p><p>Sus himnos toda la creación</p><p>eleva a Dios con profusión.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>El sol cual novio celestial,</p><p>que deja el tálamo nupcial,</p><p>Prosigue su celeste andar, loando a Dios con su brillar.</p><p>Y en la quietud reverencial de la familia sideral</p><p>El universo en devoción a Dios tributa bendición.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 36,
 				"author": "",
 				"year": "",
@@ -77,7 +77,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Oh, Dios mi soberano Rey, a ti daré loor;</p><p>Tu nombre yo ensalzaré, santísimo Señor.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Tus obras evidencia son de infinito amor;</p><p>Y cantan con alegre voz tu gloria y honor.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Tu mano veo por doquier en cielo, tierra y mar;</p><p>La creación inclínese tu honra a proclamar.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Elevo a ti mi corazón en alabanzas hoy;</p><p>Por todo lo que has hecho, Dios, mi adoración te doy.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 37,
 				"author": "Mary A. Lathbury",
 				"year": "1877",
@@ -86,7 +86,7 @@
 				"lyric": "<div class='strophe'> <p>¡Santo, Santo, Santo,</p><p>Señor, Jehová!</p><p>Cielo y tierra, de tu amor</p><p>Llenos hoy están, Señor;</p><p>¡Loor a ti! Amén.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 38,
 				"author": "Héctor Sambrano",
 				"year": "1971",
@@ -95,7 +95,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¡Alabemos al Señor, Dios de toda creación!</p><p>Todo su amor nos dio, ¡Aleluya!</p></div><div class='chorus'> <span class='chorus__title'>Coro:</span> <p>Agua fresca el río nos dio,</p><p>Y la luz del sol nos alumbró;</p><p>Por la noche el Padre nos cuidó.</p><p>Alabemos al Señor, ¡Aleluya!</p><p>¡Aleluya! ¡Aleluya! ¡Aleluya! ¡Aleluya!</p><p>Alabemos al Señor, ¡Aleluya!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¡Alabemos al Señor por la vida que nos da!</p><p>Pues al alma trae paz, ¡Aleluya!</p></div><div class='chorus'> <span class='chorus__title'>Coro:</span> <p>Agua fresca el río nos dio,</p><p>Y la luz del sol nos alumbró;</p><p>Por la noche el Padre nos cuidó.</p><p>Alabemos al Señor, ¡Aleluya!</p><p>¡Aleluya! ¡Aleluya! ¡Aleluya! ¡Aleluya!</p><p>Alabemos al Señor, ¡Aleluya!</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 39,
 				"author": "Carlos Rosas",
 				"year": "1976",
@@ -104,7 +104,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Cantemos al Señor un himno de alegría,</p><p>Un cántico de amor al nacer el nuevo día;</p><p>El hizo el cielo, el mar, el sol y las estrellas;</p><p>En ellos vio bondad, pues sus obras eran bellas.</p></div><div class='chorus'> <span class='chorus__title'>Coro:</span> <p>¡Aleluya! ¡Aleluya! Cantemos al Señor.</p><p>¡Aleluya! ¡Aleluya! ¡Aleluya!</p><p>Cantemos al Señor. ¡Aleluya!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Cantemos al Señor un himno de alabanza</p><p>Que exprese nuestro amor, nuestra fe y</p><p>nuestra esperanza; Hoy toda la creación</p><p>pregona su grandeza, así nuestro cantar</p><p>va anunciando su belleza.</p></div><div class='chorus'> <span class='chorus__title'>Coro:</span> <p>¡Aleluya! ¡Aleluya! Cantemos al Señor.</p><p>¡Aleluya! ¡Aleluya! ¡Aleluya!</p><p>Cantemos al Señor. ¡Aleluya!</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 40,
 				"author": "Wolfgang A. Mozart",
 				"year": "1773",
@@ -113,7 +113,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Aleluya, aleluya,</p><p>aleluya, aleluya.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Aleluya, aleluya,</p><p>aleluya, aleluya.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Aleluya, aleluya,</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 41,
 				"author": "",
 				"year": "",
@@ -122,7 +122,7 @@
 				"lyric": "<div class='strophe'> <p>¿Quién midió las aguas con el hueco de su mano y</p><p>los cielos con su palmo, con tres dedos juntó el</p><p>polvo de la tierra, y pesó los montes con balanza y</p><p>con pesas los collados?</p></div><div class='chorus'> <p>He aquí que las naciones le son como la gota de</p><p>agua que cae del cubo, y como menudo polvo en</p><p>las balanzas le son estimadas; he aquí que hace</p><p>desaparecer las islas como polvo.</p></div><div class='strophe'> <p>Levantad en alto vuestros ojos, y mirad quién creó</p><p>estas cosas; él saca y cuenta su ejército;</p></div><div class='chorus'> <p>A todas llama por sus nombres; ninguna faltará;</p><p>tal es la grandeza de su fuerza, y el poder de su</p><p>dominio.</p></div><div class='strophe'> <p>¿No has sabido, no has oído que el Dios eterno es</p><p>Jehová, el cual creó los confines de la tierra?</p></div><div class='chorus'> <p>No desfallece, ni se fatiga con cansancio, y su</p><p>entendimiento no hay quien lo alcance.</p></div><div class='strophe'> <p>Oh Jehová, Dios de los ejércitos, ¿quién como tú?</p><p>Poderoso eres, Jehová, y tu fidelidad te rodea.</p></div><div class='chorus'> <p>Tú tienes dominio sobre la braveza del mar;</p><p>cuando se levantan sus ondas, tú las sosiegas.</p></div><div class='strophe'> <p>Tuyos son los cielos, tuya también la tierra; el</p><p>mundo y su plenitud, tú lo fundaste.</p></div><div class='chorus'> <p>Tuyo es el brazo potente; fuerte es tu mano,</p><p>exaltada tu diestra.</p></div><div class='strophe'> <p>Justicia y juicio son el cimiento de tu trono; misericordia</p><p>y verdad van delante de tu rostro.</p></div><div class='chorus'> <p>Bienaventurado el pueblo que sabe aclamarte;</p><p>andará, oh Jehová, a la luz de tu rostro.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 42,
 				"author": "Leonard E. smith, Jr.",
 				"year": "1974",
@@ -131,7 +131,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Cuán bellos son los pies de aquel que</p><p>anuncia hoy noticias del Señor;</p><p>Predica paz,</p><p>proclama gozo y salvación:</p><p>¡Reina Dios! ¡Reina Dios!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Reina Dios! ¡Reina Dios!</p><p>¡Reina Dios, nuestro Dios!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>No vimos hermosura ni atractivo en él</p><p>cuando en la cruz murió;</p><p>Fue afligido,</p><p>mas su boca no abrió; Redención él obró.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Reina Dios! ¡Reina Dios!</p><p>¡Reina Dios, nuestro Dios!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Venció la tumba con poder</p><p>y gloria real, resucitó Jesús;</p><p>Hoy a la diestra de su Padre él está;</p><p>¡Gloria a Dios, vive hoy!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Reina Dios! ¡Reina Dios!</p><p>¡Reina Dios, nuestro Dios!</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 43,
 				"author": "Epigmenio Velasco",
 				"year": "",
@@ -140,7 +140,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Nuestra fortaleza, nuestra protección,</p><p>Nuestro fiel socorro, nuestro paladión,</p><p>Nuestro gran refugio, nuestra salvación</p><p>Es el Dios que adora nuestro corazón.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Nuestra fortaleza, nuestra protección</p><p>Es el Dios que adora nuestro corazón.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Que la tierra toda cambie de lugar,</p><p>Y los montes rueden por el ancho mar;</p><p>Nuestra fortaleza firme habrá de estar,</p><p>Porque lo inmutable no podrá mudar.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Nuestra fortaleza, nuestra protección</p><p>Es el Dios que adora nuestro corazón.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>A la voz tan sólo de su voluntad</p><p>Túrbanse los mares en su majestad;</p><p>Tiembla la montaña, todo es vanidad,</p><p>Al vibrar su acento por la inmensidad.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Nuestra fortaleza, nuestra protección</p><p>Es el Dios que adora nuestro corazón.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Que otros en sus fuerzas quieran descansar,</p><p>O en las que el mundo les promete dar;</p><p>Nunca todas ellas se han de comparar</p><p>Con la que pudimos en el cielo hallar.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Nuestra fortaleza, nuestra protección</p><p>Es el Dios que adora nuestro corazón.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 44,
 				"author": "Daniel C. Roberts",
 				"year": "1876",
@@ -149,7 +149,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Señor Jehová, omnipotente Dios,</p><p>Tú que los astros riges con poder,</p><p>Oye clemente nuestra humilde voz,</p><p>Nuestra canción hoy dígnate atender.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Eterno Padre, nuestro corazón</p><p>A ti profesa un inefable amor;</p><p>Entre nosotros tu presencia pon;</p><p>Tiéndenos, pues, tu brazo protector.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>A nuestra patria da tu bendición;</p><p>Enséñanos tus leyes a guardar;</p><p>Alumbra la conciencia y la razón;</p><p>Domina siempre tú en todo hogar.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Defiéndenos del enemigo cruel;</p><p>Concede a nuestras faltas corrección;</p><p>Nuestro servicio sea siempre fiel;</p><p>Y sénos tú la grande protección.</p><p>Amén, amén.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 45,
 				"author": "Martín Lutero",
 				"year": "1529",
@@ -158,7 +158,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Castillo fuerte es nuestro Dios, defensa y</p><p>buen escudo; Con su poder nos librará</p><p>en este trance agudo. Con furia y con afán</p><p>acósanos Satán; Por armas deja ver</p><p>astucia y gran poder; Cual él no hay en la tierra.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Nuestro valor es nada aquí, con él todo es</p><p>perdido; Mas por nosotros pugnará</p><p>de Dios el Escogido. Es nuestro Rey Jesús,</p><p>el que venció en la cruz, Señor y Salvador,</p><p>y siendo él solo Dios, El triunfa en la batalla.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Aunque estén demonios mil prontos a</p><p>devorarnos, no temeremos, porque Dios</p><p>sabrá como ampararnos. Que muestre su vigor</p><p>Satán, y su furor; dañarnos no podrá;</p><p>pues condenado es ya por la Palabra Santa.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Esa palabra del Señor, que el mundo no apetece,</p><p>Por el Espíritu de Dios muy firme permanece.</p><p>Nos pueden despojar de bienes y hogar,</p><p>El cuerpo destruir, mas siempre ha de existir</p><p>De Dios el Reino eterno.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 46,
 				"author": "Miguel Angel Palomino",
 				"year": "1978",
@@ -167,7 +167,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Canten a Dios con alegría con todo el corazón,</p><p>// Porque nos ha librado y nos ha mostrado su salvación; //</p><p>¡Gloria a Dios, gloria a Dios!</p><p>// Porque ha hecho maravillas, Canten alegres al Creador. //</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Canten a Dios todos los pueblos, toquen arpa y tambor,</p><p>// Con guitarra y trompeta* canten alegres al Creador; //</p><p>¡Gloria a Dios, gloria a Dios!</p><p>// Porque ha hecho maravillas, Canten alegres al Creador. //</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 47,
 				"author": "",
 				"year": "",
@@ -176,7 +176,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Grandes y maravillosas son tus obras,</p><p>Señor Dios Todopoderoso;</p><p>Justos y verdaderos</p><p>son tus caminos, Rey de los santos,</p><p>Rey de los santos, Rey de los santos.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¿Quién no te temerá, oh Señor,</p><p>y glorificará tu nombre?</p><p>Pues sólo tú eres santo;</p><p>por lo cual todas las naciones vendrán</p><p>y te adorarán, y te adorarán.</p><p>¡Aleluya, amén! ¡Aleluya, amén!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Temed a Dios y dadle gloria, porque su juicio</p><p>ha llegado; Y adorad a aquel que hizo el cielo y</p><p>la tierra, el mar y las fuentes de las aguas.</p><p>¡Aleluya, amén! ¡Aleluya, amén!</p><p>¡Aleluya, amén! ¡Aleluya, amén!</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 48,
 				"author": "Isaac Watts",
 				"year": "1719",
@@ -185,7 +185,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Al trono majestuoso del Dios de potestad,</p><p>Humilde vuestra frente, naciones inclinad.</p><p>El es el ser supremo, de todos el Señor,</p><p>Y nada al fin resiste a Dios el Hacedor.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Del polvo de la tierra su mano nos formó,</p><p>Y nos donó la vida su aliento creador;</p><p>Después, al vernos ciegos, caídos en error,</p><p>Cual padre al hijo amado salud nos proveyó.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>La gratitud sincera nos dictará el cantar,</p><p>Y en tiernos dulces sones al cielo subirá;</p><p>Con los celestes himnos cantados a Jehová,</p><p>La armónica alabanza doquier resonará.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Señor, a tu Palabra sujeto el mundo está,</p><p>Y del mortal perecen la astucia y la maldad;</p><p>Después de haber cesado los siglos de correr,</p><p>Tu amor, verdad y gloria han de permanecer.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 49,
 				"author": "Charles Wesley",
 				"year": "1739",
@@ -194,7 +194,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¡Oh, que tuviera lenguas mil</p><p>para poder cantar</p><p>Las glorias de mi Dios y Rey,</p><p>y sus triunfos alabar!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Su nombre trae consuelo y paz,</p><p>nos libra del temor;</p><p>Salud, aliento y gozo es;</p><p>vida da al pecador.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Quebranta el poder del mal,</p><p>al preso libra hoy;</p><p>Su sangre limpia al ser más vil,</p><p>¡Aleluya! limpio estoy.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Oh, mudos, de su amor hablad;</p><p>y sordos, oid su voz;</p><p>Oh, cojos, de emoción saltad;</p><p>ciegos, ved al Salvador.</p></div><div class='strophe'> <span class='strophe__number'>5</span> <p>Señor Jesús, ayúdame</p><p>tu nombre a proclamar</p><p>A todo el mundo en derredor,</p><p>tu grandeza ensalzar.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 50,
 				"author": "",
 				"year": "",
@@ -203,7 +203,7 @@
 				"lyric": "<div class='strophe'> <p>// Te damos gracias,</p><p>Señor Dios Todopoderoso, //</p><p>El que eres y que eras</p><p>Y que has de venir,</p><p>// Porque has tomado tu gran poder,</p><p>Y has reinado. //</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 51,
 				"author": "",
 				"year": "",
@@ -212,7 +212,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Nuestra esperanza y protección</p><p>y nuestro eterno hogar</p><p>Has sido, eres y serás</p><p>tan sólo tú, Señor.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Aún no habías la creación</p><p>formado con bondad,</p><p>Mas desde la eternidad</p><p>tú eras sólo Dios.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Delante de tus ojos son</p><p>mil años, al pasar,</p><p>Tan sólo un día que fugaz</p><p>fenece con el sol.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>El tiempo corre arrollador</p><p>como impetuoso mar;</p><p>Y así, cual sueño ves pasar</p><p>cada generación.</p></div><div class='strophe'> <span class='strophe__number'>5</span> <p>Nuestra esperanza y protección</p><p>y nuestro eterno hogar,</p><p>En la tormenta o en la paz sé siempre tú, Señor.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 52,
 				"author": "",
 				"year": "",
@@ -221,7 +221,7 @@
 				"lyric": "<div class='strophe'> <p>// Jehová es mi luz y salvación, //</p><p>// ¿De quién temeré? //</p></div><div class='strophe'> <p>// Jehová es la fortaleza de mi vida; //</p><p>// ¿De quién he de atemorizarme? //</p></div><div class='strophe'> <p>// Aguarda a Jehová, //</p><p>Esfuérzate y aliéntese tu corazón;</p><p>Sí, espera a Jehová.</p></div><div class='strophe'> <p>// Jehová es mi luz y salvación, //</p><p>// ¿De quién temeré? //</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 53,
 				"author": "",
 				"year": "",
@@ -230,7 +230,7 @@
 				"lyric": "<div class='strophe'> <p>Jehová está en medio de ti, poderoso;</p><p>El salvará, se gozará sobre ti con alegría;</p><p>Callará de amor,</p><p>se gozará sobre ti con cánticos.</p><p>Jehová está en medio de ti,</p><p>poderoso, ¡Poderosísimo!</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 54,
 				"author": "",
 				"year": "",
@@ -239,7 +239,7 @@
 				"lyric": "<div class='strophe'> <p>Aquel que es poderoso,</p><p>muy poderoso,</p><p>Para guardaros sin caída,</p><p>¡Poderoso es él!</p><p>Y presentaros sin mancha delante de su gloria</p><p>Con gran alegría, ¡Poderoso es él!</p></div><div class='strophe'> <p>Al único y sabio Dios,</p><p>nuestro Salvador,</p><p>Sea gloria y majestad, imperio y potencia,</p><p>Ahora y por todos los siglos. Amén.</p></div><div class='strophe'> <p>Aquel que es poderoso,</p><p>muy poderoso,</p><p>Para guardaros sin caída, ¡Poderoso es él!</p><p>Y presentaros sin mancha delante de su gloria</p><p>Con gran alegría, ¡Poderoso es él!</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 55,
 				"author": "",
 				"year": "",
@@ -248,7 +248,7 @@
 				"lyric": "<div class='strophe'> <p>Te alabarán, oh Jehová, todos los reyes,</p><p>Todos los reyes de la tierra;</p><p>Porque han oído</p><p>los dichos de tu boca,</p><p>Y cantarán de los caminos de Jehová.</p></div><div class='strophe'> <p>// Porque la gloria de Jehová es grande,</p><p>Porque Jehová es excelso en sus caminos;</p><p>Porque Jehová atiende al humilde,</p><p>Mas mira de lejos al altivo. //</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 56,
 				"author": "Luz Ester Ríos de Cuna",
 				"year": "1954",
@@ -257,7 +257,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>El que habita al abrigo de Dios</p><p>Morará bajo sombras de amor;</p><p>Sobre él no vendrá ningún mal</p><p>Y en sus alas feliz vivirá.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Oh, yo quiero habitar al abrigo de Dios,</p><p>Sólo allí encontraré paz y profundo amor.</p><p>Mi delicia es con él comunión disfrutar</p><p>Y por siempre su nombre alabar.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>El que habita al abrigo de Dios</p><p>muy feliz ciertamente será;</p><p>Angeles guardarán su salud</p><p>Y sus pies nunca resbalarán.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Oh, yo quiero habitar al abrigo de Dios,</p><p>Sólo allí encontraré paz y profundo amor.</p><p>Mi delicia es con él comunión disfrutar</p><p>Y por siempre su nombre alabar.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>El que habita al abrigo de Dios</p><p>Para siempre seguro estará;</p><p>Caerán a su diestra diez mil</p><p>Mas a él no vendrá mortandad.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Oh, yo quiero habitar al abrigo de Dios,</p><p>Sólo allí encontraré paz y profundo amor.</p><p>Mi delicia es con él comunión disfrutar</p><p>Y por siempre su nombre alabar.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 57,
 				"author": "",
 				"year": "",
@@ -266,7 +266,7 @@
 				"lyric": "<div class='strophe'> <p>Bueno es alabarte, oh Jehová, y</p><p>cantar salmos a tu nombre, oh Altísimo;</p></div><div class='chorus'> <p>Anunciar por la mañana tu misericordia,</p><p>y tu fidelidad cada noche.</p></div><div class='strophe'> <p>Alabad a Jehová, naciones todas;</p><p>pueblos todos, alabadle.</p></div><div class='chorus'> <p>Porque ha engrandecido sobre nosotros su</p><p>misericordia, y la fidelidad de Jehová</p><p>es para siempre. Aleluya.</p></div><div class='strophe'> <p>En esto se mostró el amor de Dios para con</p><p>nosotros, en que Dios envió a su Hijo unigénito</p><p>al mundo, para que vivamos por él.</p></div><div class='chorus'> <p>Y nosotros hemos conocido y creído el amor</p><p>que Dios tiene para con nosotros.</p><p>Dios es amor; y el que permanece en amor,</p><p>permanece en Dios, y Dios en él.</p></div><div class='strophe'> <p>Nosotros le amamos a él, porque él nos amó primero.</p></div><div class='chorus'> <p>Venid, aclamemos alegremente a Jehová;</p><p>cantemos con júbilo a la roca de nuestra</p><p>salvación.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 58,
 				"author": "Edward H. Plumptre",
 				"year": "1865",
@@ -275,7 +275,7 @@
 				"lyric": "<div class='strophe'> <p>¡Cantad, ( cantad,)</p><p>Cantad, ( cantad,)</p><p>Cantad, alabad a Dios!</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 59,
 				"author": "Thomas O. Chisholm",
 				"year": "1923",
@@ -284,7 +284,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Oh, Dios Eterno, tu misericordia</p><p>Ni una sombra de duda tendrá;</p><p>Tu compasión y bondad nunca fallan</p><p>Y por los siglos el mismo serás.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh, tu fidelidad! ¡Oh, tu fidelidad!</p><p>Cada momento la veo en mí.</p><p>Nada me falta, pues todo provees,</p><p>¡Grande, Señor, es tu fidelidad!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>La noche oscura, el sol y la luna,</p><p>Las estaciones del año también,</p><p>Unen su canto cual fieles criaturas,</p><p>Porque eres bueno, por siempre eres fiel.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh, tu fidelidad! ¡Oh, tu fidelidad!</p><p>Cada momento la veo en mí.</p><p>Nada me falta, pues todo provees,</p><p>¡Grande, Señor, es tu fidelidad!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Tú me perdonas, me impartes el gozo,</p><p>Tierno me guías por sendas de paz;</p><p>Eres mi fuerza, mi fe, mi reposo,</p><p>Y por los siglos mi Padre serás.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh, tu fidelidad! ¡Oh, tu fidelidad!</p><p>Cada momento la veo en mí.</p><p>Nada me falta, pues todo provees,</p><p>¡Grande, Señor, es tu fidelidad!</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 60,
 				"author": "Carolina Sandell Berg",
 				"year": "1855",
@@ -293,7 +293,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Nuestro Dios y Padre eterno</p><p>a sus hijos cuida tierno;</p><p>Con amor los guía siempre,</p><p>en su seno los protege.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>En pobreza o abundancia</p><p>su fiel provisión alcanza;</p><p>Aunque pruebas mil asaltan,</p><p>sus cuidados nunca faltan.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Sabe de sus aflicciones;</p><p>siente sus tribulaciones;</p><p>Les consuela en tristeza,</p><p>y les da su fortaleza.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>De su amor constante y fuerte,</p><p>ni la vida ni la muerte</p><p>Nunca pueden separarles;</p><p>protección se goza en darles.</p></div><div class='strophe'> <span class='strophe__number'>5</span> <p>A sus hijos Dios sustenta,</p><p>bendiciones les aumenta;</p><p>Ni avecillas en su nido</p><p>tal cuidado han recibido.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 61,
 				"author": "",
 				"year": "",
@@ -302,7 +302,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>El Señor es mi pastor, y nada, pues, me faltará;</p><p>Entre pastos delicados me hará él descansar;</p><p>Junto a aguas de reposo siempre me pastoreará,</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>El Señor es mi pastor,</p><p>Nada, pues, me faltará.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Fortalecerá mi alma cuando débil yo esté;</p><p>Guiaráme por las sendas de justicia por amor;</p><p>Aunque ande entre sombras, mal ninguno temeré,</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>El Señor es mi pastor,</p><p>Nada, pues, me faltará.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Con tu vara y tu cayado siempre aliento me darás;</p><p>Aderezarás mi mesa ante todo angustiador;</p><p>Tú ungiste mi cabeza y mi copa llena está,</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>El Señor es mi pastor,</p><p>Nada, pues, me faltará.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Ciertamente sus bondades cada día gozaré,</p><p>Y en la casa de mi Padre largos días moraré;</p><p>Mientras tanto por su gracia este salmo cantaré:ARG</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>El Señor es mi pastor,</p><p>Nada, pues, me faltará.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 62,
 				"author": "Michael Ledner",
 				"year": "1981",
@@ -311,7 +311,7 @@
 				"lyric": "<div class='strophe'> <p>Eres mi protector, llenas mi corazón</p><p>Con cánticos de liberación;</p><p>De angustia me guardarás.</p><p>Confiaré en ti,</p></div><div class='strophe'> <p>Confiaré en ti; débil soy,</p><p>mas fuerte seré con poder del Señor.</p></div><div class='strophe'> <p>Eres mi protector, llenas mi corazón</p><p>Con cánticos de liberación;</p><p>De angustia me guardarás.</p><p>Confiaré en ti.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 63,
 				"author": "Frederick M. Lehman",
 				"year": "1917",
@@ -320,7 +320,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¡Oh amor de Dios! Su inmensidad,</p><p>El hombre no podría contar, ni comprender</p><p>la gran verdad que Dios al hombre pudo amar.</p><p>Cuando el pecar entró al hogar de Adán y</p><p>Eva en Edén, Dios les sacó, mas prometió</p><p>un Salvador también.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh amor de Dios! brotando está,</p><p>inmensurable, eternal;</p><p>Por las edades durará, inagotable raudal.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Si fuera tinta todo el mar, y todo el cielo un</p><p>gran papel, y cada hombre un escritor,</p><p>Y cada hoja un pincel,</p><p>Nunca podrían describir el gran amor de Dios</p><p>Que al hombre pudo redimir de su pecado atroz.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh amor de Dios! brotando está,</p><p>inmensurable, eternal;</p><p>Por las edades durará, inagotable raudal.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Y cuando el tiempo pasará con cada reino mundanal,</p><p>y cada reino caerá con cada trama y plan carnal,</p><p>El gran amor del Redentor por siempre durará;</p><p>La gran canción de salvación su pueblo cantará.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh amor de Dios! brotando está,</p><p>inmensurable, eternal;</p><p>Por las edades durará, inagotable raudal.</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 64,
 				"author": "Brus del Monte",
 				"year": "1970",
@@ -329,7 +329,7 @@
 				"lyric": "<div class='strophe'> <p>¡Dios es amor! ¡Dios es amor!</p><p>La Biblia nos dice el mensaje sublime</p><p>que Dios es amor, ¡Oh sí!</p><p>¡Dios es amor! ¡Dios es amor!</p><p>Los ángeles cantan,</p><p>los hombres proclaman</p><p>Que ¡Dios es amor!</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 65,
 				"author": "George beverly Shea",
 				"year": "1956",
@@ -338,7 +338,7 @@
 				"lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Cuán hermosa es la luz del ocaso,</p><p>Y precioso es el amanecer,</p><p>Pero más glorioso es el gran amor</p><p>Que el Señor derramó en mi ser.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Qué maravilla es, qué maravilla es</p><p>Que el Señor me ama a mí!</p><p>¡Qué maravilla es, qué maravilla es</p><p>Que el Señor me ama a mí!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Admirable es la siega abundante,</p><p>Las estrellas, la luna y el sol,</p><p>Pero más glorioso es el gran amor</p><p>Que me da nueva vida y perdón.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Qué maravilla es, qué maravilla es</p><p>Que el Señor me ama a mí!</p><p>¡Qué maravilla es, qué maravilla es</p><p>Que el Señor me ama a mí!</p></div>"
 			},
 			{
-				"current": "app/assets/database/029-066.json",
+				"current": "https://abgmz.github.io/json-api-vnp/029-066.json",
 				"number": 66,
 				"author": "",
 				"year": "",

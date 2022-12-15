@@ -1,11 +1,11 @@
 [
   {
     "count": 652,
-    "next": "app/assets/database/211-247.json",
-    "previous": "app/assets/database/141-172.json",
+    "next": "https://abgmz.github.io/json-api-vnp/211-247.json",
+    "previous": "https://abgmz.github.io/json-api-vnp/141-172.json",
     "lyrics": [
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 173,
         "author": "Fanny J. Crosby",
         "year": "1880",
@@ -14,7 +14,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Dime la historia de Cristo; grábala en mi corazón;</p><p>Dime la historia preciosa, ¡cuán melodioso es su son!</p><p>Di cómo cuando nacía, ángeles con dulce voz</p><p>“Paz en la tierra”, cantaron,</p><p>“y en las alturas gloria a Dios”.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Dime la historia de Cristo; grábala en mi corazón;</p><p>Dime la historia preciosa, ¡cuán melodioso es su son!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Dime del tiempo en que a solas en el desierto se halló;</p><p>De Satanás fue tentado, mas con poder le venció.</p><p>Dime de todas sus obras, de su tristeza y dolor,</p><p>Pues sin hogar, despreciado anduvo nuestro Salvador.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Dime la historia de Cristo; grábala en mi corazón;</p><p>Dime la historia preciosa, ¡cuán melodioso es su son!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Di cuando crucificado él por nosotros murió;</p><p>Di del sepulcro sellado; di cómo resucitó.</p><p>En esa historia tan tierna miro las pruebas de amor;</p><p>Mi redención ha comprado el bondadoso Salvador.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Dime la historia de Cristo; grábala en mi corazón;</p><p>Dime la historia preciosa, ¡cuán melodioso es su son!</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 174,
         "author": "William E. Booth-Clibborn",
         "year": "1921,",
@@ -23,7 +23,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¡Qué bella historia! de su excelsa gloria</p><p>Bajó el Salvador, Jesús, mi Redentor.</p><p>Nació en pesebre, despreciado y pobre,</p><p>Varón de lágrimas y de dolor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh cuánto le amo! y fiel le adoro;</p><p>El es mi vida, mi Redentor;</p><p>El Rey de gloria vino a salvarme,</p><p>Y a revelarme al Dios de amor.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¡Qué gran misterio, tan incomprensible!</p><p>El Verbo se encarnó y al mundo descendió.</p><p>El plan oculto revelóse al hombre,</p><p>Y por su tierno amor me levantó.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh cuánto le amo! y fiel le adoro;</p><p>El es mi vida, mi Redentor;</p><p>El Rey de gloria vino a salvarme,</p><p>Y a revelarme al Dios de amor.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>¡Don admirable, tan incomparable!</p><p>De plena salvación, y eterna redención.</p><p>El sol divino brilla en mi camino;</p><p>Su luz alumbrará mi corazón.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh cuánto le amo! y fiel le adoro;</p><p>El es mi vida, mi Redentor;</p><p>El Rey de gloria vino a salvarme,</p><p>Y a revelarme al Dios de amor.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 175,
         "author": "Tomás de Kempis",
         "year": "",
@@ -32,7 +32,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¡Oh amor, profundo, inmenso amor!</p><p>de gozo llena el corazón</p><p>Que el Dios eterno, en su bondad,</p><p>tomara forma corporal.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Fue por nosotros su oración,</p><p>su enseñanza y su labor:</p><p>Jamás buscó su propio bien;</p><p>se hizo siervo, siendo rey.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>El por nosotros padeció</p><p>blasfemias, burlas y dolor;</p><p>Y para darnos vida y luz</p><p>halló la muerte en una cruz.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Mas en su triunfo el nuestro está,</p><p>y junto al Padre, nuestro hogar;</p><p>Nos da su Espíritu, y en él</p><p>hallamos gozo, paz, poder.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 176,
         "author": "Rafael Enrique Urdaneta M.",
         "year": "1978",
@@ -41,7 +41,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>En la cruz murió mi Jesús;</p><p>con su muerte vida me dio;</p><p>Por su gracia me transformó</p><p>y la vida abundante me concedió.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Vida abundante Jesús ofrece,</p><p>vida triunfante de día en día;</p><p>El es la fuente de vida eterna</p><p>que brota siempre en mi corazón.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>La mujer que fue y tocó</p><p>el vestido de mi Señor;</p><p>Por su fe salud recibió</p><p>y la vida abundante Jesús le dio.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Vida abundante Jesús ofrece,</p><p>vida triunfante de día en día;</p><p>El es la fuente de vida eterna</p><p>que brota siempre en mi corazón.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>En la cruz pidió el malhechor</p><p>de su alma la salvación;</p><p>Vida eterna pudo alcanzar,</p><p>pues la vida abundante Jesús le dio.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Vida abundante Jesús ofrece,</p><p>vida triunfante de día en día;</p><p>El es la fuente de vida eterna</p><p>que brota siempre en mi corazón.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 177,
         "author": "Benjamin R. Hanby",
         "year": "1866",
@@ -50,7 +50,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¿Quién es el que en Belén</p><p>reyes y pastores ven?</p><p>¿Quién a solas ayunó, y la tentación venció?</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Es Jesús, ¡Qué bella historia!</p><p>mi Señor el Rey de gloria;</p><p>A sus pies le adoraré,</p><p>¡Aleluya! cantaré.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¿Quién tres años enseñó y al enfermo levantó?</p><p>¿Quién a niños recibió, con amor los abrazó?</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Es Jesús, ¡Qué bella historia!</p><p>mi Señor el Rey de gloria;</p><p>A sus pies le adoraré,</p><p>¡Aleluya! cantaré.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>¿Quién al Padre siempre oró</p><p>y su voluntad buscó?</p><p>¿Quién por mí en la cruz murió, y mi pena allí pagó?</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Es Jesús, ¡Qué bella historia!</p><p>mi Señor el Rey de gloria;</p><p>A sus pies le adoraré,</p><p>¡Aleluya! cantaré.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>¿Quién la tumba conquistó,</p><p>con poder resucitó?</p><p>¿Quién al cielo ascendió, junto al Padre se sentó?</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Es Jesús, ¡Qué bella historia!</p><p>mi Señor el Rey de gloria;</p><p>A sus pies le adoraré,</p><p>¡Aleluya! cantaré.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 178,
         "author": "Mary A. Baker",
         "year": "1874",
@@ -59,7 +59,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¡Maestro, se encrespan las aguas</p><p>y ruge la tempestad! Los grandes abismos</p><p>del cielo se llenan de oscuridad.</p><p>¿No ves que aquí perecemos? ¿Puedes dormir así,</p><p>Cuando el mar agitado nos abre profundo sepulcro aquí?</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Los vientos, las ondas oirán tu voz,</p><p>“¡Sea la paz!” (“¡Sea la paz, sea la paz!”)</p><p>Calmas las iras del negro mar,</p><p>Las luchas del alma las haces cesar,</p><p>Y así la barquilla do va el Señor,</p><p>Hundirse no puede en el mar traidor.</p><p>Doquier se cumple tu voluntad,</p><p>“¡Sea la paz!” “¡Sea la paz!”</p><p>Tu voz resuena en la inmensidad, “¡Sea la paz!”</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Maestro, mi ser angustiado</p><p>te busca con ansiedad;</p><p>De mi alma en los antros profundos</p><p>se libra cruel tempestad.</p><p>Asalta el pecado a torrentes sobre mi frágil ser.</p><p>¡Y perezco, perezco, Maestro! ¡Oh, quiéreme socorrer!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Los vientos, las ondas oirán tu voz,</p><p>“¡Sea la paz!” (“¡Sea la paz, sea la paz!”)</p><p>Calmas las iras del negro mar,</p><p>Las luchas del alma las haces cesar,</p><p>Y así la barquilla do va el Señor,</p><p>Hundirse no puede en el mar traidor.</p><p>Doquier se cumple tu voluntad,</p><p>“¡Sea la paz!” “¡Sea la paz!”</p><p>Tu voz resuena en la inmensidad, “¡Sea la paz!”</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Maestro, pasó la tormenta,</p><p>los vientos no rugen ya,</p><p>Y sobre el cristal de las aguas</p><p>el sol resplandecerá.</p><p>Maestro, prolonga esta calma,</p><p>no me abandones más;</p><p>Cruzaré los abismos contigo, gozando bendita paz.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Los vientos, las ondas oirán tu voz,</p><p>“¡Sea la paz!” (“¡Sea la paz, sea la paz!”)</p><p>Calmas las iras del negro mar,</p><p>Las luchas del alma las haces cesar,</p><p>Y así la barquilla do va el Señor,</p><p>Hundirse no puede en el mar traidor.</p><p>Doquier se cumple tu voluntad,</p><p>“¡Sea la paz!” “¡Sea la paz!”</p><p>Tu voz resuena en la inmensidad, “¡Sea la paz!”</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 179,
         "author": "Santiago J. Stevenson O",
         "year": "1964",
@@ -68,7 +68,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>A la casa de Jairo iba Jesús;</p><p>una gran multitud iba tras él.</p><p>Y una pobre mujer llena de fe,</p><p>no miró la multitud, mas le tocó.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Haz tú cual la mujer que le tocó</p><p>el borde del vestido del Señor.</p><p>Virtud salió de él, y ella sanó;</p><p>si crees tú en él, salvo serás.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Aquel pueblo inmenso le escuchó;</p><p>una parte creía al Señor,</p><p>Pero el resto furioso rechazó</p><p>a este Mensajero del excelso amor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Haz tú cual la mujer que le tocó</p><p>el borde del vestido del Señor.</p><p>Virtud salió de él, y ella sanó;</p><p>si crees tú en él, salvo serás.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Jesucristo, fui yo quien te tocó;</p><p>mi mal ningún doctor pudo quitar,</p><p>Mas tu mano potente me sanó;</p><p>ya mi alma y cuerpo traigo a tu altar.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Haz tú cual la mujer que le tocó</p><p>el borde del vestido del Señor.</p><p>Virtud salió de él, y ella sanó;</p><p>si crees tú en él, salvo serás.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 180,
         "author": "Alfredo Colom M.",
         "year": "1953",
@@ -77,7 +77,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>“De tu cántaro dame, dame tú de beber”,</p><p>A la Samaritana, dijo un día Jesús.</p><p>“¿Por qué, siendo judío me diriges la voz?”</p><p>// Respondió con vehemencia</p><p>la mujer que ignoraba la grandeza de Dios. //</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>“¡Oh! si tú conocieses este don que es de Dios</p><p>Y quien viene a rogarte que le des de beber,</p><p>Quizá tú pedirías y él podríate dar</p><p>// Agua más deleitosa, que en los pozos</p><p>terrenos no podrás encontrar. //</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Quien bebiere de esta agua volverá a tener sed,</p><p>Mas aquel que bebiere de la que le daré,</p><p>Para siempre, declaro que más sed no tendrá;</p><p>// En su alma una fuente para vida</p><p>eterna con poder saltará”. //</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 181,
         "author": "Israel Aguilera",
         "year": "",
@@ -86,7 +86,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Cuando el ciego escuchó que Jesús iba a ir,</p><p>Caminó a Jericó, lo salió a recibir;</p><p>Le gritaba, “¡Señor, ten piedad tú de mí!</p><p>Porque ciego soy yo y no puedo vivir”.</p><p>// Cristo le preguntó: “¿Qué podré por ti hacer?”</p><p>Y con fe respondió: “Haz que yo pueda ver”. //</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Al salir de allí daba gracias a Dios</p><p>Porque ya pudo ver, pues Jesús lo sanó;</p><p>El Señor le mostró su amor y poder</p><p>Cuando al ciego sanó, permitiéndole ver.</p><p>// El también lo sacó de otra noche sin luz,</p><p>Pues su pena pagó Cristo allí en la cruz.//</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Este mismo Jesús poderoso de ayer</p><p>Es el mismo que hoy te dará su poder;</p><p>Como escrito está, todo puede el Señor,</p><p>Como ayer, también hoy y por la eternidad.</p><p>// Si tú vienes a él, salvación tú tendrás;</p><p>Dale tu corazón; libre y salvo serás. //</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 182,
         "author": "",
         "year": "",
@@ -95,7 +95,7 @@
         "lyric": "<div class='strophe'> <p>Al comenzar su ministerio, Jesús tenía como treinta</p><p>años. Fue a Nazaret, donde se había criado,</p><p>y conforme a su costumbre, el día sábado entró</p><p>en la sinagoga, y se levantó para leer.</p></div><div class='chorus'> <p>Se le entregó el rollo del profeta Isaías;</p><p>y cuando abrió el rollo, encontró el lugar</p><p>donde estaba escrito:</p></div><div class='strophe'> <p>El Espíritu del Señor está sobre mí, porque me ha ungido</p><p>para anunciar buenas nuevas a los pobres;</p></div><div class='chorus'> <p>Me ha enviado para proclamar libertad a los</p><p>cautivos y vista a los ciegos, para poner en</p><p>libertad a los oprimidos y para</p><p>proclamar el año agradable del Señor.</p></div><div class='strophe'> <p>Después de enrollar el libro y devolverlo al ayudante, se</p><p>sentó. Y los ojos de todos en la sinagoga estaban fijos en él.</p></div><div class='chorus'> <p>Entonces comenzó a decirles: “Hoy se ha</p><p>cumplido esta Escritura en vuestros oídos”.</p></div><div class='strophe'> <p>Y se asombraban de su enseñanza, porque su</p><p>palabra era con autoridad.</p></div><div class='chorus'> <p>Pero él les dijo: “Me es necesario anunciar el</p><p>evangelio del reino de Dios a otras ciudades</p><p>también, porque para esto he sido enviado”.</p></div><div class='strophe'> <p>Su fama se extendía cada vez más, y se juntaban a él</p><p>muchas multitudes para oírle y para ser sanadas de</p><p>sus enfermedades.</p></div><div class='chorus'> <p>Pero él se apartaba a los lugares desiertos y oraba.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 183,
         "author": "",
         "year": "",
@@ -104,7 +104,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Tierra bendita y divina es la de Palestina,</p><p>donde nació Jesús; Eres, de las naciones,</p><p>cumbre bañada por la lumbre</p><p>que derramó su luz.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Eres la historia inolvidable,</p><p>porque en tu seno se derramó</p><p>La sangre, preciosa sangre,</p><p>del unigénito Hijo de Dios;</p><p>La sangre, preciosa sangre,</p><p>del unigénito Hijo de Dios.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Cuenta la historia del pasado</p><p>que en tu seno sagrado vivió</p><p>el Salvador, y en tus hermosos olivares,</p><p>habló a los millares la palabra de amor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Eres la historia inolvidable,</p><p>porque en tu seno se derramó</p><p>La sangre, preciosa sangre,</p><p>del unigénito Hijo de Dios;</p><p>La sangre, preciosa sangre,</p><p>del unigénito Hijo de Dios.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Quedan en ti testigos mudos,</p><p>que son los viejos muros de la Jerusalén;</p><p>Viejas paredes destruidas, que si tuvieran vida,</p><p>nos hablarían también.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Eres la historia inolvidable,</p><p>porque en tu seno se derramó</p><p>La sangre, preciosa sangre,</p><p>del unigénito Hijo de Dios;</p><p>La sangre, preciosa sangre,</p><p>del unigénito Hijo de Dios.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 184,
         "author": "Jean-Baptiste Faure",
         "year": "1864",
@@ -113,7 +113,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Palmas y flores que se ven brotar,</p><p>Hoy día sus perfumes ricos dan,</p><p>Pues viene Cristo el llanto a enjugar</p><p>Y revelarnos el divino plan.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>A Cristo dad hosannas, (¡Gloria! ¡Hosanna!)</p><p>Himnos cantad a Cristo con triunfo y grande aclamación;</p><p>¡Gloria al Señor! ¡Hosanna!</p><p>(¡Hosanna! ¡Gloria al Señor!)</p><p>¡Gloria al que viene trayéndonos salvación!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Los pueblos, al oír su regia voz,</p><p>Del mal que oprime alcanzan libertad.</p><p>Contemplan otra vez la luz de Dios,</p><p>Regocijada está la humanidad.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>A Cristo dad hosannas, (¡Gloria! ¡Hosanna!)</p><p>Himnos cantad a Cristo con triunfo y grande aclamación;</p><p>¡Gloria al Señor! ¡Hosanna!</p><p>(¡Hosanna! ¡Gloria al Señor!)</p><p>¡Gloria al que viene trayéndonos salvación!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Hoy día alégrate, Jerusalén;</p><p>Viene a librarte tu divino Rey,</p><p>Pues el amor del Cristo de Belén</p><p>Trae esperanza, paz y eterna fe.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>A Cristo dad hosannas, (¡Gloria! ¡Hosanna!)</p><p>Himnos cantad a Cristo con triunfo y grande aclamación;</p><p>¡Gloria al Señor! ¡Hosanna!</p><p>(¡Hosanna! ¡Gloria al Señor!)</p><p>¡Gloria al que viene trayéndonos salvación!</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 185,
         "author": "Phill McHugh",
         "year": "",
@@ -122,7 +122,7 @@
         "lyric": "<div class='strophe'> <p>Hay poder, esperanza y amor</p><p>En el nombre de nuestro Señor;</p><p>Aclamemos a Cristo el Rey,</p><p>¡Bendito el que viene en el</p><p>nombre de Dios!</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 186,
         "author": "Rubén Ruiz",
         "year": "1972",
@@ -131,7 +131,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Mantos y palmas esparciendo va</p><p>El pueblo alegre de Jerusalén,</p><p>Y a lo lejos ya se puede ver</p><p>En un pollino a Jesús el Rey;</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Mientras mil voces resuenan</p><p>por doquier, “Hosanna al que viene</p><p>en el nombre del Señor”; Con un estruendo</p><p>de gran exclamación prorrumpen con voz triunfal:</p><p>“¡Hosanna, hosanna al Rey!</p><p>¡Hosanna! ¡Hosanna al Rey!”</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Como en la entrada de Jerusalén,</p><p>Un día todos vamos a cantar,</p><p>Cuando regrese Cristo otra vez</p><p>Para llevarnos al eterno hogar;</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Mientras mil voces resuenan</p><p>por doquier, “Hosanna al que viene</p><p>en el nombre del Señor”; Con un estruendo</p><p>de gran exclamación prorrumpen con voz triunfal:</p><p>“¡Hosanna, hosanna al Rey!</p><p>¡Hosanna! ¡Hosanna al Rey!”</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 187,
         "author": "Jeanette Threlfall",
         "year": "1873",
@@ -140,7 +140,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Cabalga majestuoso tan alto embajador,</p><p>Seguido de sus fieles del Olivar a Sion.</p><p>Las multitudes cantan con gozo y con fervor:</p><p>¡Hosanna al rey que viene en nombre del Señor!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Con palmas y con ramos</p><p>el pueblo marcha en pos;</p><p>Aclámanle los niños, rindiendo gloria a Dios.</p><p>Las multitudes cantan con gozo y con fervor:</p><p>¡Hosanna al rey que viene en nombre del Señor!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Cubrid de mirto y flores la senda del Señor,</p><p>Con corazón y labios rendidle adoración.</p><p>Cantadle, multitudes, con gozo y con fervor:</p><p>¡Hosanna al rey que viene en nombre del Señor!</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 188,
         "author": "",
         "year": "",
@@ -149,7 +149,7 @@
         "lyric": "<div class='strophe'> <p>Al día siguiente, cuando oyeron que Jesús</p><p>venía a Jerusalén,</p></div><div class='chorus'> <p>La gran multitud que había venido a la fiesta</p><p>tomó ramas de palmera y salió a recibirle,</p><p>y le aclamaban a gritos: “¡Hosanna!”</p></div><div class='strophe'> <p>Ellos decían: “¡Bendito el rey que viene en el nombre</p><p>del Señor! ¡Paz en el cielo, y gloria en las alturas!”</p></div><div class='chorus'> <p>Cuando llegó cerca, al ver la ciudad, lloró por ella.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 189,
         "author": "",
         "year": "",
@@ -158,7 +158,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Santo, santo,</p><p>santo es el Señor;</p><p>Dios del universo,</p><p>santo es el Señor.</p><p>Santo, santo, santo, santo es el Señor;</p><p>Dios del universo, santo es el Señor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// ¡Hosanna en el cielo!</p><p>¡Hosanna en la tierra!</p><p>¡Bendito el que viene en el nombre del Señor! //</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 190,
         "author": "Efraín Sánchez",
         "year": "",
@@ -167,7 +167,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Una noche con la luna, Cristo lloraba,</p><p>Y contemplaba la ciudad santa.</p><p>¡Oh, Jerusalén la hermosa! Tú que has matado</p><p>Cuantos te ha enviado mi Padre Dios.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh Jerusalén, Jerusalén, ciudad de Sion!</p><p>Llora por ti hoy mi corazón: Como el ave</p><p>al hijo le da siempre protección, vine yo</p><p>a traerte salvación. ¡Oh, Jerusalén</p><p>la hermosa! Tú que has matado</p><p>Cuantos te ha enviado mi Padre Dios.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Y cuando Jesús moría en cruz clavado,</p><p>Al vil malvado él bendecía. Si tú aceptas</p><p>hoy la sangre que ha derramado,</p><p>Serás llevado a Jerusalén.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh Jerusalén, Jerusalén, ciudad de Sion!</p><p>Llora por ti hoy mi corazón: Como el ave</p><p>al hijo le da siempre protección, vine yo</p><p>a traerte salvación. ¡Oh, Jerusalén</p><p>la hermosa! Tú que has matado</p><p>Cuantos te ha enviado mi Padre Dios.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 191,
         "author": "Pedro Calderón de la Barca",
         "year": "",
@@ -176,7 +176,7 @@
         "lyric": "<div class='strophe'> <p>¿Qué quiero, mi Jesús?... Quiero quererte,</p><p>quiero cuanto hay en mí, del todo darte</p><p>sin tener más placer que el agradarte,</p><p>sin tener más temor que el ofenderte.</p></div><div class='strophe'> <p>Quiero olvidarlo todo y conocerte,</p><p>quiero dejarlo todo por buscarte,</p><p>quiero perderlo todo por hallarte,</p><p>quiero ignorarlo todo por saberte.</p></div><div class='strophe'> <p>Quiero, amable Jesús, abismarme</p><p>en ese dulce hueco de tu herida,</p><p>y en tus divinas llamas abrasarme.</p></div><div class='strophe'> <p>Quiero, por fin, en ti transfigurarme,</p><p>morir a mí, para vivir tu vida,</p><p>perderme en ti, Jesús, y no encontrarme.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 192,
         "author": "Felipe Blycker J.",
         "year": "1980",
@@ -185,7 +185,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Cristo nuestra ofrenda es: holocausto excelso;</p><p>Al Cordero alabad; conquistó el Calvario.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// Santos seréis, porque santo soy</p><p>yo Jehová vuestro Dios”. //</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Cristo nuestra ofrenda es: oblación tan fragante;</p><p>Es olor suave hacia Dios; load al Hijo amante.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// Santos seréis, porque santo soy</p><p>yo Jehová vuestro Dios”. //</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Cristo nuestra ofrenda es, quien logró</p><p>para el hombre, paz y comunión</p><p>con Dios, ¡gloria dad a su nombre!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// Santos seréis, porque santo soy</p><p>yo Jehová vuestro Dios”. //</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Cristo nuestra ofrenda es el que quita</p><p>el pecado; Por su muerte eficaz</p><p>vida ofrece al mundo.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// Santos seréis, porque santo soy</p><p>yo Jehová vuestro Dios”. //</p></div><div class='strophe'> <span class='strophe__number'>5</span> <p>Cristo nuestra ofrenda es:</p><p>expiación consumada;</p><p>Queda satisfecho Dios, y el alma limpiada.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// Santos seréis, porque santo soy</p><p>yo Jehová vuestro Dios”. //</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 193,
         "author": "Helen Griggs",
         "year": "1948",
@@ -194,7 +194,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>A solas en Getsemaní el Salvador sufrió;</p><p>La copa amarga de dolor mi buen Jesús bebió.</p><p>A solas en el tribunal las burlas aguantó,</p><p>Pues fue de Dios la santa voluntad.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Se despojó del trono y todo su esplendor;</p><p>Fue despreciado y desechado el Salvador,</p><p>Mas como oveja no abrió su boca mi Señor,</p><p>Pues fue de Dios la santa voluntad.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>A solas al Calvario, Cristo el Redentor subió;</p><p>Sin murmurar, mis negras penas</p><p>en la cruz sufrió.</p><p>“Dios mío, ¿por qué me has dejado?”</p><p>con dolor clamó,</p><p>Mas fue de Dios la santa voluntad.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Se despojó del trono y todo su esplendor;</p><p>Fue despreciado y desechado el Salvador,</p><p>Mas como oveja no abrió su boca mi Señor,</p><p>Pues fue de Dios la santa voluntad.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 194,
         "author": "",
         "year": "",
@@ -203,7 +203,7 @@
         "lyric": "<div class='strophe'> <p>Antes de la fiesta de la Pascua, sabiendo</p><p>Jesús que había llegado su hora</p><p>para pasar de este mundo al Padre,</p></div><div class='chorus'> <p>Como había amado a los suyos que</p><p>estaban en el mundo, los amó hasta el fin.</p></div><div class='strophe'> <p>Así que, después de haberles lavado los pies,</p><p>tomó su manto, se volvió a sentar a la mesa</p><p>y les dijo: — ¿Entendéis lo que os he hecho?</p></div><div class='chorus'> <p>—Un mandamiento nuevo os doy: que os améis</p><p>los unos a los otros. Como os he amado,</p><p>amaos también vosotros los unos a los otros.</p></div><div class='strophe'> <p>Entonces llegó Jesús con ellos a un lugar que</p><p>se llama Getsemaní, y dijo a los discípulos:</p><p>—Sentaos aquí, hasta que yo vaya allá y ore.</p></div><div class='chorus'> <p>Tomó consigo a Pedro, y a los dos</p><p>hijos de Zebedeo, y comenzó a</p><p>entristecerse y a angustiarse.</p></div><div class='strophe'> <p>Pasando un poco más adelante, se postró</p><p>sobre su rostro, orando y diciendo:</p></div><div class='chorus'> <p>—Padre mío, de ser posible, pase de mí esta copa.</p><p>Pero, no sea como yo quiero, sino como tú.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 195,
         "author": "James G. Deck",
         "year": "1842",
@@ -212,7 +212,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¡Rasgóse el velo! ya no más distancia mediará;</p><p>Al trono mismo de su Dios el alma llegará.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¡Rasgóse el velo, sombras id! la luz resplandeció;</p><p>La cara misma de su Dios Jesús ya reveló.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>¡Rasgóse el velo! hecha está eterna redención;</p><p>El alma pura y limpia ya no teme perdición.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>¡Rasgóse el velo! Dios abrió los brazos de su amor;</p><p>Entrar podemos donde entró Jesús, el Salvador.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 196,
         "author": "Philip P. Bliss",
         "year": "1875",
@@ -221,7 +221,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>El Varón de gran dolor es el Hijo del Señor;</p><p>Vino al mundo por amor, ¡Aleluya! ¡Es mi Cristo!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>El llevó la cruenta cruz para darnos vida y luz;</p><p>Ya mi cuenta él pagó, ¡Aleluya! ¡Es mi Cristo!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Quiso él por mí morir; puedo hoy por él vivir.</p><p>Quiero sólo a él servir, ¡Aleluya! ¡Es mi Cristo!</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Cuando venga nuestro Rey, Luego yo su faz veré,</p><p>Y sus glorias cantaré, ¡Aleluya! ¡Es mi Cristo!</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 197,
         "author": "Lydia Baxter",
         "year": "1870",
@@ -230,7 +230,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Mirad al Salvador Jesús, el Príncipe benigno,</p><p>Por mí muriendo en la cruz, por mí, tan vil, indigno.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>De amor la prueba hela aquí: el Salvador murió por mí.</p><p>Por mí, (por mí,) por mí, (por mí,) Jesús murió por mí.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>El sol su rostro encubrió al ver su agonía;</p><p>La dura peña se partió; ¿Lo oyes, alma mía?</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>De amor la prueba hela aquí: el Salvador murió por mí.</p><p>Por mí, (por mí,) por mí, (por mí,) Jesús murió por mí.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Y yo también al ver la cruz, por ella soy vencido;</p><p>Mi corazón te doy, Jesús, A tu amor rendido.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>De amor la prueba hela aquí: el Salvador murió por mí.</p><p>Por mí, (por mí,) por mí, (por mí,) Jesús murió por mí.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 198,
         "author": "Frances R. Havergal",
         "year": "1858",
@@ -239,7 +239,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Mi vida di por ti,</p><p>mi sangre derramé;</p><p>Por ti inmolado fui, por gracia te salvé;</p><p>// Por ti, por ti inmolado fui, ¿Qué has dado tú por mí? //</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Mi celestial mansión,</p><p>mi trono de esplendor,</p><p>Dejé por rescatar al mundo pecador;</p><p>// Sí, todo yo dejé por ti, ¿Qué dejas tú por mí? //</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Reproches, aflicción y</p><p>angustias yo sufrí;</p><p>La copa amarga fue que yo por ti bebí;</p><p>// Reproches yo por ti sufrí, ¿Qué sufres tú por mí? //</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>De mi celeste hogar,</p><p>te traigo el rico don</p><p>Del Padre Dios de amor, la plena salvación;</p><p>// Mi don de amor te traigo a ti, ¿Qué ofreces tú por mí? //</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 199,
         "author": "Sarah Jean Graham",
         "year": "1886",
@@ -248,7 +248,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>En la vergonzosa cruz padeció por mí, Jesús;</p><p>Por la sangre que vertió, mis pecados él expió;</p><p>Lavará de todo mal ese rojo manantial,</p><p>El que abrió por mí, Jesús, en la vergonzosa cruz.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Sí, fue por mí, (Sí, fue por mí,)</p><p>sí, fue por mí, (Sí, fue por mí,)</p><p>Fue por mí, murió Jesús en la vergonzosa cruz.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¡Oh, qué amor, qué inmenso amor</p><p>reveló mi Salvador! La maldad que hice yo,</p><p>al suplicio le llevó. Ahora a ti mi todo doy,</p><p>cuerpo y alma tuyo soy; Mientras permanezca</p><p>aquí, hazme siempre fiel a ti.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Sí, fue por mí, (Sí, fue por mí,)</p><p>sí, fue por mí, (Sí, fue por mí,)</p><p>Fue por mí, murió Jesús en la vergonzosa cruz.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Yo de Cristo sólo soy, a seguirle presto estoy;</p><p>Al bendito Redentor serviré con firme amor;</p><p>Sea mi alma ya su hogar, y mi corazón su altar;</p><p>Vida emana, paz y luz, del Calvario, de la cruz.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Sí, fue por mí, (Sí, fue por mí,)</p><p>sí, fue por mí, (Sí, fue por mí,)</p><p>Fue por mí, murió Jesús en la vergonzosa cruz.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 200,
         "author": "",
         "year": "",
@@ -257,7 +257,7 @@
         "lyric": "<div class='strophe'> <p>Los principales sacerdotes y los ancianos persuadieron a la</p><p>multitud que pidiese a Barrabás, y que Jesús fuese muerto.</p></div><div class='chorus'> <p>Pilato les dijo: —¿Qué, pues, haré de Jesús,</p><p>llamado el Cristo?</p></div><div class='strophe'> <p>Todos le dijeron: —¡Sea crucificado!</p></div><div class='chorus'> <p>Y Pilato, queriendo satisfacer al pueblo,</p><p>les soltó a Barrabás, y entregó a Jesús,</p><p>después de azotarle, para que fuese crucificado.</p></div><div class='strophe'> <p>Y le llevaron a un lugar llamado Gólgota,</p><p>que traducido es: Lugar de la Calavera.</p></div><div class='chorus'> <p>Era la hora tercera cuando le crucificaron.</p></div><div class='strophe'> <p>Crucificaron también con él a dos ladrones, uno a</p><p>su derecha, y el otro a su izquierda.</p></div><div class='chorus'> <p>Y se cumplió la Escritura que dice:</p><p>Y fue contado con los inicuos.</p></div><div class='strophe'> <p>Cuando vino la hora sexta, hubo tinieblas</p><p>sobre toda la tierra hasta la hora novena.</p></div><div class='chorus'> <p>Mas Jesús, dando una gran voz, expiró.</p></div><div class='strophe'> <p>Entonces el velo del templo se rasgó en dos, de arriba abajo.</p></div><div class='chorus'> <p>Y el centurión que estaba frente a él, viendo</p><p>que después de clamar había expirado así, dijo:</p><p>—Verdaderamente este hombre era hijo de Dios.</p></div><div class='chorus'> <p>Cristo padeció por nosotros,</p></div><div class='chorus'> <p>Quien llevó el mismo nuestros pecados en su</p><p>cuerpo sobre el madero, para que nosotros,</p><p>estando muertos a los pecados, vivamos a la justicia.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 201,
         "author": "Alfredo Colom M.",
         "year": "1954",
@@ -266,7 +266,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Pies divinos, pies divinos, pies divinos;</p><p>Pies divinos, pies divinos de Jesús,</p><p>// Que en la cumbre del Calvario</p><p>Los clavaron en la cruz. //</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Vedlos fríos y desnudos por los campos,</p><p>Caminando, caminando sin cesar;</p><p>// Por las cumbres, por los valles,</p><p>Por la orilla de la mar. //</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Van llevando por Judea la semilla</p><p>Del bendito Evangelio del amor,</p><p>// Y calmando del enfermo</p><p>Las tristezas y el dolor. //</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>¡Cuán hermosos y cuán santos, cuán benditos,</p><p>De Jesús el Nazareno son los pies!</p><p>// ¡Oh yo quiero que a la tierra</p><p>Vengan pronto otra vez! //</p></div><div class='strophe'> <span class='strophe__number'>5</span> <p>Pies divinos, pies divinos, pies sangrantes,</p><p>Horadados por mi culpa sin igual,</p><p>// Nos librasteis del pecado</p><p>y del juicio eternal. //</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 202,
         "author": "",
         "year": "",
@@ -275,7 +275,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Padeció una sola vez mi Cristo,</p><p>padeció una sola vez por mí;</p><p>Por los pecados padeció,</p><p>por los pecados padeció,</p><p>El justo por los injustos;</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Padeció una sola vez mi Cristo,</p><p>padeció una sola vez por mí;</p><p>Para llevarnos a Dios,</p><p>para llevarnos a Dios;</p><p>Padeció por nosotros Jesús.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 203,
         "author": "Bernardo de Claraval",
         "year": "",
@@ -284,7 +284,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Cabeza ensangrentada, herida por mi bien,</p><p>De espinas coronada, por fe mis ojos ven;</p><p>De todos despreciada, mi eterno bien será;</p><p>Por todas las edades mi ser te adorará.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Pues oprimida tu alma fue por el pecador;</p><p>La transgresión fue mía, mas tuyo fue el dolor;</p><p>Hoy vengo contristado, merezco tu dolor,</p><p>Concédeme tu gracia; ¡oh! dame tu favor.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Te doy loor eterno, bendito Salvador,</p><p>Por tu dolor y muerte, por tu divino amor;</p><p>Oh Salvador, deseo tu gracia conocer;</p><p>Junto a tu cruz espero, te entrego a ti mi ser.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 204,
         "author": "George W. Kitchin",
         "year": "1887",
@@ -293,7 +293,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Venid, unidos el pendón llevad,</p><p>El Hijo de Dios es nuestro Capitán.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Alzad la cruz de Cristo el Salvador</p><p>Y proclamad su nombre en derredor!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Es el madero símbolo de paz,</p><p>Amor, fe, justicia y de libertad.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Alzad la cruz de Cristo el Salvador</p><p>Y proclamad su nombre en derredor!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Todo creyente en el Redentor</p><p>Ostenta en la frente el sello del perdón.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Alzad la cruz de Cristo el Salvador</p><p>Y proclamad su nombre en derredor!</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Por Jesucristo con fervor luchad,</p><p>Y él la victoria os concederá.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Alzad la cruz de Cristo el Salvador</p><p>Y proclamad su nombre en derredor!</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 205,
         "author": "",
         "year": "",
@@ -302,7 +302,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>“Padre, perdónalos, porque no</p><p>saben lo que hacen”.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>“Hoy estarás conmigo en el paraíso”.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>“Mujer, he allí tu hijo...He allí tu madre”.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>“Dios mío, Dios mío, ¿por qué</p><p>me has desamparado?”</p></div><div class='strophe'> <span class='strophe__number'>5</span> <p>“Tengo sed”.</p></div><div class='strophe'> <span class='strophe__number'>6</span> <p>“Consumado es”.</p></div><div class='strophe'> <span class='strophe__number'>7</span> <p>“Padre, en tus manos encomiendo mi espíritu”.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 206,
         "author": "Alfredo Colom M.",
         "year": "1954",
@@ -311,7 +311,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Ese triste día, mi Jesús sufría</p><p>En la cruz clavado por nuestro pecado;</p><p>// Tiernamente dijo a Juan y a la madre:</p><p>“He aquí tu hijo, he aquí tu madre”. //</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Cuando le clavaban y le denostaban,</p><p>Imploró clemencia, perdón y paciencia</p><p>// En favor de aquellos que en tinieblas yacen,</p><p>“Pues ignoran ellos”, dijo, “lo que hacen”. //</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>En su angustia, llama; “¡Sed yo tengo!” exclama.</p><p>¿Y sabéis qué hicieron? vinagre le dieron.</p><p>// A aquel penitente que buscarle quiso,</p><p>Le ofreció la fuente de su paraíso. //</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Con solemne calma encomienda su alma,</p><p>A su Padre amado que ya le ha dejado</p><p>// Por el vil pecado de un mundo errado,</p><p>Y clama angustiado: “¡Ya es consumado!”//</p></div><div class='strophe'> <span class='strophe__number'>5</span> <p>¡Cuán felices fuimos desde que creímos</p><p>En el Cristo amado que fuera inmolado!</p><p>// Fue a la tumba fría, y resucitado,</p><p>Un hermoso día fue glorificado. //</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 207,
         "author": "Elizabeth C. Clephane",
         "year": "1872",
@@ -320,7 +320,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Junto a la cruz de Cristo yo quiero siempre estar,</p><p>Pues mi alma albergue fuerte</p><p>y fiel allí puede encontrar.</p><p>En medio del desierto aquí, allí encuentro hogar</p><p>Do del calor y del trajín yo pueda descansar.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Bendita cruz de Cristo, a veces veo en ti</p><p>La misma forma en fiel visión del que sufrió por mí;</p><p>Hoy mi contrito corazón confiesa la verdad</p><p>De tu asombrosa redención y de mi indignidad.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Oh, Cristo, en ti he hallado completa y dulce paz;</p><p>No busco bendición mayor que la de ver tu faz;</p><p>Sin atractivo el mundo está, ya que ando por tu luz;</p><p>Avergonzado de mi mal, mi gloria es ya la cruz.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 208,
         "author": "Wilbur Chapman",
         "year": "1909",
@@ -329,7 +329,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Un día que el cielo sus glorias cantaba,</p><p>Un día que el mal imperaba más cruel,</p><p>Jesús descendió, y al nacer de una virgen,</p><p>Nos dio por su vida ejemplo tan fiel.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Vivo, me amaba; muerto, salvóme;</p><p>Y en el sepulcro mi mal enterró;</p><p>Resucitado, él es mi justicia;</p><p>Un día él viene, pues lo prometió.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Un día lleváronle al monte Calvario,</p><p>Un día claváronle sobre una cruz;</p><p>Sufriendo dolores y pena de muerte,</p><p>Expiando el pecado, salvóme Jesús.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Vivo, me amaba; muerto, salvóme;</p><p>Y en el sepulcro mi mal enterró;</p><p>Resucitado, él es mi justicia;</p><p>Un día él viene, pues lo prometió.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Un día dejaron su cuerpo en el huerto,</p><p>Un día Jesús de dolor reposó.</p><p>Velaban los ángeles sobre el sepulcro</p><p>De quien por nosotros su vida entregó.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Vivo, me amaba; muerto, salvóme;</p><p>Y en el sepulcro mi mal enterró;</p><p>Resucitado, él es mi justicia;</p><p>Un día él viene, pues lo prometió.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Un día la tumba ocultarle no pudo,</p><p>Un día el ángel la piedra quitó;</p><p>Habiendo Jesús a la muerte vencido,</p><p>A estar con su Padre en gloria ascendió.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Vivo, me amaba; muerto, salvóme;</p><p>Y en el sepulcro mi mal enterró;</p><p>Resucitado, él es mi justicia;</p><p>Un día él viene, pues lo prometió.</p></div><div class='strophe'> <span class='strophe__number'>5</span> <p>Un día él viene con voz de arcángel,</p><p>Un día en su gloria el Señor brillará;</p><p>¡Oh día admirable, en que unido, su pueblo</p><p>Loores a Cristo por siempre alzará!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Vivo, me amaba; muerto, salvóme;</p><p>Y en el sepulcro mi mal enterró;</p><p>Resucitado, él es mi justicia;</p><p>Un día él viene, pues lo prometió.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 209,
         "author": "Alfredo Colom M",
         "year": "1954",
@@ -338,7 +338,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Manos cariñosas, manos de Jesús;</p><p>Manos que llevaron la pesada cruz,</p><p>Manos que supieron sólo hacer el bien,</p><p>¡Gloria a esas manos! ¡Aleluya, amén!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Blancas azucenas, lirios de amor,</p><p>Fueron esas manos de mi Redentor;</p><p>Manos que a los ciegos dieron la visión</p><p>Con el real consuelo de su gran perdón.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Manos que supieron calmar el dolor,</p><p>¡Oh, manos divinas de mi Redentor!</p><p>Que multiplicaron los peces y el pan,</p><p>Manos milagrosas que la vida dan.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Manos que sufrieron el clavo y la cruz;</p><p>Manos redentoras de mi buen Jesús;</p><p>De esas manos bellas yo confiado estoy;</p><p>Ellas van guiando, pues al cielo voy.</p></div><div class='strophe'> <span class='strophe__number'>5</span> <p>¡Oh, Jesús! tus manos yo las vi en visión</p><p>Y vertí mi llanto con el corazón;</p><p>Vi sus dos heridas y la sangre vi</p><p>Que tú derramaste por salvarme a mí.</p></div>"
       },
       {
-        "current": "app/assets/database/173-210.json",
+        "current": "https://abgmz.github.io/json-api-vnp/173-210.json",
         "number": 210,
         "author": "Isaac Watts",
         "year": "1707",

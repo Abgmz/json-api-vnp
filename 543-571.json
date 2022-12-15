@@ -1,11 +1,11 @@
 [
   {
     "count": 652,
-    "next": "app/assets/database/572-602.json",
-    "previous": "app/assets/database/528-542.json",
+    "next": "https://abgmz.github.io/json-api-vnp/572-602.json",
+    "previous": "https://abgmz.github.io/json-api-vnp/528-542.json",
     "lyrics": [
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 543,
         "author": "Alejandro M. Montes",
         "year": "1975",
@@ -14,7 +14,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Ya Cristo viene, lo prometió;</p><p>Cumplido el tiempo vendrá otra vez.</p><p>Los corazones se turban hoy;</p><p>Creed en Dios, confiad en él.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// “¡Jesús amado, ven pronto, ven!”</p><p>Clamaba Juan, y yo también; //</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>El mundo en crisis se encuentra hoy;</p><p>Pleitos y guerras, señales son.</p><p>Falsos maestros abundan hoy;</p><p>El Salvador pronto vendrá.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// “¡Jesús amado, ven pronto, ven!”</p><p>Clamaba Juan, y yo también; //</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 544,
         "author": "Santiago J. Stevenson O.",
         "year": "1964",
@@ -23,7 +23,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>La venida de Cristo se acerca;</p><p>Pronto viene su Iglesia a buscar.</p><p>No durmamos, estemos alerta;</p><p>¡Vigilad, vigilad, vigilad!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Pronto viene Jesús y nos lleva</p><p>A la hermosa mansión celestial.</p><p>Pronto viene Jesús por su Iglesia;</p><p>Nos iremos con él a morar.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Ya queremos que Cristo nos lleve</p><p>A los cielos con él a morar.</p><p>No seamos jamás negligentes;</p><p>¡Trabajad, trabajad, trabajad!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Pronto viene Jesús y nos lleva</p><p>A la hermosa mansión celestial.</p><p>Pronto viene Jesús por su Iglesia;</p><p>Nos iremos con él a morar.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Arreglemos, estemos a cuentas</p><p>Con Jesús, el Cordero de Dios.</p><p>Del que ofende tengamos clemencia;</p><p>¡Perdonad, perdonad, perdonad!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Pronto viene Jesús y nos lleva</p><p>A la hermosa mansión celestial.</p><p>Pronto viene Jesús por su Iglesia;</p><p>Nos iremos con él a morar.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Perdonando, Jesús nos perdona,</p><p>Y nos lleva con él a reinar.</p><p>Ganaremos también la corona;</p><p>¡Vigilad, trabajad, perdonad!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Pronto viene Jesús y nos lleva</p><p>A la hermosa mansión celestial.</p><p>Pronto viene Jesús por su Iglesia;</p><p>Nos iremos con él a morar.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 545,
         "author": "John W. Peterson",
         "year": "1957",
@@ -32,7 +32,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Notas alegres cantad, Y con fervor proclamad</p><p>Esta gloriosa verdad: Cristo muy pronto vendrá.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Viene otra vez, viene otra vez,</p><p>Tal vez al amanecer, O tal vez al anochecer.</p><p>Viene otra vez, viene otra vez,</p><p>Día glorioso será para mí; Al mundo viene otra vez.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Pena y dolor pasarán, Y se regocijarán</p><p>Todos los que en Cristo están,</p><p>Cuando regrese el Señor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Viene otra vez, viene otra vez,</p><p>Tal vez al amanecer, O tal vez al anochecer.</p><p>Viene otra vez, viene otra vez,</p><p>Día glorioso será para mí; Al mundo viene otra vez.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 546,
         "author": "Thoro Harris",
         "year": "1916",
@@ -41,7 +41,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Un día Cristo volverá; Es la promesa del Señor;</p><p>Tal como fue así vendrá,</p><p>Y su pueblo ha de ver al Salvador.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Muy pronto, sí, Jesús vendrá,</p><p>y alegre le verá su pueblo.</p><p>¡Velad! ¡Orad! el Rey vendrá,</p><p>los suyos arrebatará. (arrebatará.)</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Los mensajeros del Señor</p><p>Anuncian que Jesús vendrá; Señales hay alrededor;</p><p>El vendrá y a los suyos llevará.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Muy pronto, sí, Jesús vendrá,</p><p>y alegre le verá su pueblo.</p><p>¡Velad! ¡Orad! el Rey vendrá,</p><p>los suyos arrebatará. (arrebatará.)</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>En busca de su grey vendrá,</p><p>Con toda gloria y honor; Su Iglesia esperando está,</p><p>Y aclamará con gozo a su Señor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Muy pronto, sí, Jesús vendrá,</p><p>y alegre le verá su pueblo.</p><p>¡Velad! ¡Orad! el Rey vendrá,</p><p>los suyos arrebatará. (arrebatará.)</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>¡Oh bienvenido, Rey Jesús!</p><p>Tus hijos te esperan ya;</p><p>Muy pronto han de ver la luz</p><p>Y gozar en tu presencia siempre allá.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Muy pronto, sí, Jesús vendrá,</p><p>y alegre le verá su pueblo.</p><p>¡Velad! ¡Orad! el Rey vendrá,</p><p>los suyos arrebatará. (arrebatará.)</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 547,
         "author": "Felipe Blycker J.",
         "year": "1975",
@@ -50,7 +50,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Nadie sabe la hora cuando él vendrá;</p><p>De repente con gloria Cristo llegará.</p><p>¡Mirad! ¡Mirad! ¡Mirad!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>El cielo y la tierra pasarán, sí, pasarán;</p><p>El cielo y la tierra pasarán, sí, pasarán;</p><p>El cielo y la tierra pasarán, sí, pasarán;</p><p>Pero mis palabras no, no pasarán.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Cristo como un hombre pronto a viajar,</p><p>Entregó a sus siervos toda autoridad.</p><p>¡Velad! ¡Velad! ¡Velad!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>El cielo y la tierra pasarán, sí, pasarán;</p><p>El cielo y la tierra pasarán, sí, pasarán;</p><p>El cielo y la tierra pasarán, sí, pasarán;</p><p>Pero mis palabras no, no pasarán.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Con poder y con gloria aparecerá,</p><p>Y los suyos al cielo Cristo llevará.</p><p>¡Orad! ¡Orad! ¡Orad!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>El cielo y la tierra pasarán, sí, pasarán;</p><p>El cielo y la tierra pasarán, sí, pasarán;</p><p>El cielo y la tierra pasarán, sí, pasarán;</p><p>Pero mis palabras no, no pasarán.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 548,
         "author": "William y Gloria Gaither",
         "year": "1970",
@@ -59,7 +59,7 @@
         "lyric": "<div class='strophe'> <p>¡Oh, el Rey ya viene,</p><p>el Rey ya viene!</p><p>Sonará la gran trompeta,</p><p>y su rostro yo veré;</p><p>¡Oh, el Rey ya viene,</p><p>el Rey ya viene!</p><p>¡Gloria a Dios!</p><p>¡El viene por mí!</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 549,
         "author": "Felicia y Mariano Beltrán",
         "year": "1949",
@@ -68,7 +68,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Cuán gloriosa será la mañana,</p><p>cuando venga Jesús el Salvador;</p><p>Los creyentes unidos como hermanos,</p><p>bienvenida daremos al Señor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>No habrá necesidad de la luz el resplandor,</p><p>ni el sol dará su luz, ni tampoco su calor;</p><p>Allí llanto no habrá, ni tristeza, ni dolor,</p><p>Porque entonces Jesús el Rey del cielo</p><p>para siempre será Consolador.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Esperamos la mañana gloriosa</p><p>para dar la bienvenida al Dios de amor,</p><p>Donde todo será color de rosa</p><p>en la santa fragancia del Señor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>No habrá necesidad de la luz el resplandor,</p><p>ni el sol dará su luz, ni tampoco su calor;</p><p>Allí llanto no habrá, ni tristeza, ni dolor,</p><p>Porque entonces Jesús el Rey del cielo</p><p>para siempre será Consolador.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>El cristiano fiel y verdadero</p><p>y también el obrero de valor</p><p>Y la Iglesia, esposa del Cordero,</p><p>estarán en los brazos del Señor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>No habrá necesidad de la luz el resplandor,</p><p>ni el sol dará su luz, ni tampoco su calor;</p><p>Allí llanto no habrá, ni tristeza, ni dolor,</p><p>Porque entonces Jesús el Rey del cielo</p><p>para siempre será Consolador.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 550,
         "author": "John Cennick",
         "year": "1752",
@@ -77,7 +77,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Con las nubes viene Cristo,</p><p>el que en la cruz murió;</p><p>Santos miles le alaban, quien la muerte conquistó.</p><p>¡Aleluya! ¡Aleluya! Sobre todo ya triunfó.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Todos le verán, glorioso, ataviado en majestad,</p><p>Y los que le rechazaron en su incredulidad</p><p>Con gran llanto,</p><p>con gran llanto al Mesías mirarán.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>En su cuerpo ya glorioso las heridas llevará,</p><p>Que su excelso sacrificio en la cruz recordarán,</p><p>Y con gozo,</p><p>y con gozo su Iglesia las verá.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Toda la creación se postre a tus pies para adorar;</p><p>De poder, dominio y gloria, Cristo, eres digno ya.</p><p>¡Aleluya! ¡Aleluya!</p><p>¡Oh, ven pronto a reinar!</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 551,
         "author": "James M. Black",
         "year": "1893",
@@ -86,7 +86,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Cuando anuncie el arcángel</p><p>que más tiempo no habrá</p><p>Y aclare esplendoroso el día final;</p><p>Cuando todos los salvados se congreguen ante Dios,</p><p>Entre ellos yo también tendré lugar.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>/// Cuando allá se pase lista, ///</p><p>A mi nombre yo feliz responderé.</p><p>(Cuando allá se pase lista, yo estaré,</p><p>cuando allá se pase lista, yo estaré,</p><p>cuando allá se pase lista,</p><p>a mi nombre yo feliz responderé.)</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Resucitarán gloriosos</p><p>los que han muerto en Jesús,</p><p>Las delicias del Paraíso a gozar,</p><p>Y triunfantes entrarán en las mansiones de la luz;</p><p>Para mí, también habrá un dulce hogar.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>/// Cuando allá se pase lista, ///</p><p>A mi nombre yo feliz responderé.</p><p>(Cuando allá se pase lista, yo estaré,</p><p>cuando allá se pase lista, yo estaré,</p><p>cuando allá se pase lista,</p><p>a mi nombre yo feliz responderé.)</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Trabajemos para Cristo anunciando su amor,</p><p>Mientras dure nuestra vida terrenal,</p><p>Y al fin de la jornada, con los salvos por Jesús,</p><p>Entraremos en la patria celestial.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>/// Cuando allá se pase lista, ///</p><p>A mi nombre yo feliz responderé.</p><p>(Cuando allá se pase lista, yo estaré,</p><p>cuando allá se pase lista, yo estaré,</p><p>cuando allá se pase lista,</p><p>a mi nombre yo feliz responderé.)</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 552,
         "author": "",
         "year": "",
@@ -95,7 +95,7 @@
         "lyric": "<div class='strophe'> <p>Si el poder del Espíritu que a Cristo levantó</p><p>mora en mí, (mora en mí),</p><p>mora en mí (mora en mí).</p><p>Si el poder del Espíritu que a Cristo levantó</p><p>mora en mí (mora en mí),</p><p>mora en mí (mora en mí),</p></div><div class='strophe'> <p>Vivificará mi cuerpo el Espíritu de Dios.</p><p>(el Espíritu de Dios, de Dios).</p><p>Vivificará mi cuerpo el Espíritu de Dios</p><p>(el Espíritu de Dios).</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 553,
         "author": "",
         "year": "",
@@ -104,7 +104,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Muy cercano está el día</p><p>cuando volverá Jesús,</p><p>Con la majestad y gloria que le dio su Padre Dios;</p><p>De sus santos rodeados en la nube bajará;</p><p>Ya de Cristo es el reinado y el pecado quitará.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Ven, Señor Jesús, ven pronto,</p><p>claman todos con ardor;</p><p>“He aquí yo vengo presto, presto”, dice el Salvador.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Su venida, victoriosa, librará la humanidad</p><p>De Satán, autor inicuo de su gran calamidad;</p><p>Cesarán todos los males por el reino de Jesús;</p><p>¡Alegraos, oh mortales! ¡Ved el triunfo de su cruz!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Ven, Señor Jesús, ven pronto,</p><p>claman todos con ardor;</p><p>“He aquí yo vengo presto, presto”, dice el Salvador.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>¡Cuánto anhelan y desean la venida de Jesús</p><p>Los creyentes redimidos por la obra de su cruz!</p><p>“Ven y siéntate conmigo en mi trono”, el Rey dirá:</p><p>“Has sufrido y has vencido; de mi gloria goza ya”.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Ven, Señor Jesús, ven pronto,</p><p>claman todos con ardor;</p><p>“He aquí yo vengo presto, presto”, dice el Salvador.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 554,
         "author": "Kenneth R. Hanna",
         "year": "",
@@ -113,7 +113,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>1) Es mi Salvador eterno,</p><p style='margin-bottom: 1.5rem'>Cristo viene otra vez;</p><p>2) Es mi Salvador eterno,</p><p style='margin-bottom: 1.5rem'>Cristo viene otra vez.</p><p>3) Es mi Salvador eterno,</p><p>Cristo viene otra vez.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Con el son de la trompeta,</p><p>Cristo viene otra vez;</p><p>Con el son de la trompeta,</p><p>Cristo viene otra vez.</p><p>Viene, viene, viene otra vez.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Y seremos como él es,</p><p>Cristo viene otra vez;</p><p>Y seremos como él es,</p><p>Cristo viene otra vez.</p><p>Viene, viene, viene otra vez.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 555,
         "author": "Dottie Rambo",
         "year": "1980",
@@ -122,7 +122,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Los cielos se abren con gloria indecible;</p><p>Los astros aplauden en triunfante fulgor.</p><p>Destellan las nubes luz indescriptible,</p><p>Y en gran majestad desciende el Señor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Vendrá Jesucristo y le veremos</p><p>cara a cara en toda su gloria!</p><p>¡Vendrá Jesucristo y le veremos</p><p>cara a cara a Jesús, el Rey y Señor!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Brillante esplendor rodeará su venida;</p><p>En ese instante Cristo nos reunirá.</p><p>La gran esperanza será ya cumplida;</p><p>Veremos su rostro y nos llevará.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Vendrá Jesucristo y le veremos</p><p>cara a cara en toda su gloria!</p><p>¡Vendrá Jesucristo y le veremos</p><p>cara a cara a Jesús, el Rey y Señor!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Con son de trompeta y gran voz de mando</p><p>Los muertos en Cristo ya resucitarán;</p><p>Y los que vivimos, también transformados,</p><p>con él gozaremos vida eternal.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Vendrá Jesucristo y le veremos</p><p>cara a cara en toda su gloria!</p><p>¡Vendrá Jesucristo y le veremos</p><p>cara a cara a Jesús, el Rey y Señor!</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 556,
         "author": "Carrie E. Breck",
         "year": "1898",
@@ -131,7 +131,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>En presencia estar de Cristo,</p><p>ver su rostro, ¡qué será,</p><p>Cuando al fin en pleno gozo</p><p>mi alma le contemplará!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Cara a cara espero verle,</p><p>más allá del cielo azul;</p><p>Cara a cara en plena gloria he de ver a mi Jesús.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Sólo tras oscuro velo</p><p>hoy lo puedo aquí mirar,</p><p>Más ya pronto viene el día</p><p>que su gloria ha de mostrar.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Cara a cara espero verle,</p><p>más allá del cielo azul;</p><p>Cara a cara en plena gloria he de ver a mi Jesús.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>¡Cuánto gozo habrá con Cristo</p><p>cuando no haya más dolor,</p><p>Cuando cesen los peligros y</p><p>ya estemos en su amor!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Cara a cara espero verle,</p><p>más allá del cielo azul;</p><p>Cara a cara en plena gloria he de ver a mi Jesús.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Cara a cara,</p><p>¡cuán glorioso ha de ser así vivir!</p><p>¡Ver el rostro de quien quiso</p><p>nuestras almas redimir!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Cara a cara espero verle,</p><p>más allá del cielo azul;</p><p>Cara a cara en plena gloria he de ver a mi Jesús.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 557,
         "author": "Yo sólo espero ese día",
         "year": "Luego nosotros los que vivimos...seremos arrebatados... con ellos. 1 Tesalonicenses 4:17",
@@ -140,7 +140,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Yo sólo espero ese día cuando Cristo volverá,</p><p>Yo sólo espero ese día cuando Cristo reinará.</p><p>Afán y todo trabajo para mí terminarán;</p><p>// Cuando Cristo venga a su reino me llevará.//</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Ya no me importa que el mundo</p><p>me desprecie por doquier;</p><p>Ya no soy más de este mundo,</p><p>soy del reino celestial.</p><p>Yo sólo espero ese día cuando me levantaré</p><p>// De la tumba fría con un cuerpo ya inmortal.//</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Entonces allí triunfante y victorioso estaré;</p><p>A mi Señor Jesucristo cara a cara le veré.</p><p>Allí no habrá más tristezas, ni aflicciones para mí;</p><p>// Con los redimidos al Cordero alabaré. //</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 558,
         "author": "H. L. Turner",
         "year": "1877",
@@ -149,7 +149,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Pudiera bien ser cuando el día amanezca</p><p>Y el sol otra vez en el cielo aparezca</p><p>Que al mundo ya resplandeciente</p><p>de gloria, Jesús por los suyos vendrá.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¿Cuándo, oh buen Salvador, Oiremos la grata canción?</p><p>“¡Aleluya! ¡Cristo viene!</p><p>¡Aleluya! Amén. ¡Aleluya! Amén”.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>También puede ser que, cual orbe de día,</p><p>Flamee la tarde o la noche sombría</p><p>En luz eternal, porque al mundo con gloria</p><p>Jesús por los suyos vendrá.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¿Cuándo, oh buen Salvador, Oiremos la grata canción?</p><p>“¡Aleluya! ¡Cristo viene!</p><p>¡Aleluya! Amén. ¡Aleluya! Amén”.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Los santos del cielo descienden y cantan</p><p>Con ángeles mil que al Señor acompañan,</p><p>Pues ya con poder, majestad y gran gloria</p><p>Jesús por los suyos vendrá.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¿Cuándo, oh buen Salvador, Oiremos la grata canción?</p><p>“¡Aleluya! ¡Cristo viene!</p><p>¡Aleluya! Amén. ¡Aleluya! Amén”.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Del mundo salir ¡Oh qué gozo sería!</p><p>Sin lágrimas, muerte, temor o agonía;</p><p>Así puede ser, pues al mundo con gloria</p><p>Jesús por los suyos vendrá.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¿Cuándo, oh buen Salvador, Oiremos la grata canción?</p><p>“¡Aleluya! ¡Cristo viene!</p><p>¡Aleluya! Amén. ¡Aleluya! Amén”.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 559,
         "author": "Fanny J. Crosby",
         "year": "1897",
@@ -158,7 +158,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Cuando al fin se termine aquí mi vida terrenal,</p><p>Y el río oscuro tenga que cruzar,</p><p>En la otra ribera al Salvador conoceré;</p><p>Su sonrisa bienvenida me dará.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Yo podré reconocerle; (Yo podré reconocerle;)</p><p>Sus heridas allí contemplaré.</p><p>Bien podré (Bien podré) reconocerle</p><p>Cuando a Cristo en la gloria le veré.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¡Oh qué gozo será vivir allí con el Señor,</p><p>Y su rostro y hermosura contemplar!</p><p>Con los santos gozosos en perfecta comunión</p><p>Le adoraré por la eternidad.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Yo podré reconocerle; (Yo podré reconocerle;)</p><p>Sus heridas allí contemplaré.</p><p>Bien podré (Bien podré) reconocerle</p><p>Cuando a Cristo en la gloria le veré.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Por los bellos portales me conducirá Jesús;</p><p>No habrá pecado, ni ningún dolor;</p><p>Gozaré con los suyos alabanzas entonar,</p><p>Mas primero quiero ver a mi Señor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Yo podré reconocerle; (Yo podré reconocerle;)</p><p>Sus heridas allí contemplaré.</p><p>Bien podré (Bien podré) reconocerle</p><p>Cuando a Cristo en la gloria le veré.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 560,
         "author": "Augustus M. Toplady",
         "year": "1775",
@@ -167,7 +167,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Roca de la eternidad, fuiste abierta tú por mí;</p><p>Sé mi escondedero fiel; sólo encuentro paz en ti,</p><p>Rico, limpio manantial, en el cual lavado fui.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Aunque sea siempre fiel, aunque llore sin cesar,</p><p>Del pecado no podré justificación lograr;</p><p>Sólo en ti teniendo fe, deuda tal podré pagar.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Mientras haya de vivir, y al instante de expirar,</p><p>Cuando vaya a responder en tu augusto tribunal,</p><p>Sé mi escondedero fiel, Roca de la eternidad.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 561,
         "author": "Twila Paris",
         "year": "1984",
@@ -176,7 +176,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Es Señor de los cielos, la tierra y el mar,</p><p>de todo es Creador;</p><p>El Señor es del tiempo y la eternidad</p><p>y de todo será el Señor.</p><p>Te adoro y te alabo, mi Rey;</p><p>Te adoro y te alabo, mi Rey;</p><p>De mi vida tú eres Señor,</p><p>Y Señor de señores serás.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Es el Rey de la historia, y la creación,</p><p>Rey soberano, triunfal;</p><p>Es el Rey de la gloria, sublime, eternal,</p><p>Y el Rey de los reyes será.</p><p>Te adoro y te alabo, mi Rey;</p><p>Te adoro y te alabo, mi Rey;</p><p>De mi vida tú eres Señor,</p><p>Y el Rey de los reyes serás.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 562,
         "author": "Atribuido a Miguel de Guevara, s. 17",
         "year": "",
@@ -185,7 +185,7 @@
         "lyric": "<div class='strophe'> <p>No me mueve, mi Dios, para quererteel cielo que me tienes prometido,ni me mueve el infierno tan temidopara dejar por eso de ofenderte.</p></div><div class='strophe'> <p>Tú me mueves, Señor; muéveme el verteclavado en una cruz y escarnecido;muéveme ver tu cuerpo tan herido;muévenme tus afrentas y tu muerte.</p></div><div class='strophe'> <p>Muéveme, al fin, tu amor, y en tal manera,que aunque no hubiera cielo, yo te amara,y aunque no hubiera infierno, te temiera.</p></div><div class='strophe'> <p>No me tienes que dar porque te quiera,pues aunque lo que espero no esperara,lo mismo que te quiero te quisiera.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 563,
         "author": "Renato Tariariá,",
         "year": "1988",
@@ -194,7 +194,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Hay un río que fluye sin cesar</p><p>en la nueva Jerusalén;</p><p>Que me habla de eterno bienestar</p><p>en la nueva Jerusalén. Celeste es el manantial,</p><p>Pristino cual el cristal en la gran Ciudad de Dios.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Hay un árbol de vida sin igual</p><p>en la nueva Jerusalén;</p><p>Cada mes da su fruto a raudal</p><p>en la nueva Jerusalén. Sus hojas dan sanidad,</p><p>A pueblos Dios da bondad en la gran Ciudad de Dios.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>No tendremos la luna ni el sol</p><p>en la nueva Jerusalén;</p><p>Mas la gloria de Dios en arrebol,</p><p>en la nueva Jerusalén. Dolor no habrá allá,</p><p>Tampoco enfermedad en la gran Ciudad de Dios.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>El Cordero un Libro tiene allí</p><p>en la nueva Jerusalén;</p><p>Mi morada eterna conseguí</p><p>en la nueva Jerusalén. Inscrito mi nombre está,</p><p>Y nadie lo borrará en la gran Ciudad de Dios.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 564,
         "author": "Emiliano Ponce",
         "year": "1940",
@@ -203,7 +203,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Aunque en esta vida no tengo riquezas,</p><p>Sé que allá en la gloria tengo una mansión;</p><p>Cual alma perdida entre las pobrezas,</p><p>De mí, Jesucristo tuvo compasión.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// Más allá del sol, más allá del sol,</p><p>Yo tengo un hogar, hogar, bello hogar,</p><p>más allá del sol. //</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Así por el mundo yo voy caminando,</p><p>De pruebas rodeado y de tentación;</p><p>Pero a mi lado viene, consolando,</p><p>Mi bendito Cristo en la turbación.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// Más allá del sol, más allá del sol,</p><p>Yo tengo un hogar, hogar, bello hogar,</p><p>más allá del sol. //</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>A los pueblos todos del linaje humano</p><p>Cristo quiere darles plena salvación;</p><p>También una casa para cada hermano</p><p>Fue a prepararles a la Santa Sion.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// Más allá del sol, más allá del sol,</p><p>Yo tengo un hogar, hogar, bello hogar,</p><p>más allá del sol. //</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 565,
         "author": "Ira F. Stanphill",
         "year": "1949",
@@ -212,7 +212,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Mansión gloriosa tengo yo en el cielo,</p><p>Do las maldades nunca entrarán.</p><p>Toda tristeza cambiará en consuelo,</p><p>Y en dulce canto el dolor y afán.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Bellas mansiones hay allá en la gloria;</p><p>Tendré en la mía el gozo sin par.</p><p>Suenan las notas de la grata victoria;</p><p>Voy pues con gozo a mi dulce hogar.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>En este mundo predomina el llanto,</p><p>Somos sujetos al dolor fatal.</p><p>Más en el cielo cesará el quebranto</p><p>Y por los siglos nunca habrá más mal.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Bellas mansiones hay allá en la gloria;</p><p>Tendré en la mía el gozo sin par.</p><p>Suenan las notas de la grata victoria;</p><p>Voy pues con gozo a mi dulce hogar.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Amigo mío, cuánto anhelo yo verte</p><p>Libre de penas y de turbación.</p><p>A Jesucristo debes ya entregarte;</p><p>Tendrás también una bella mansión.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Bellas mansiones hay allá en la gloria;</p><p>Tendré en la mía el gozo sin par.</p><p>Suenan las notas de la grata victoria;</p><p>Voy pues con gozo a mi dulce hogar.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 566,
         "author": "",
         "year": "",
@@ -221,7 +221,7 @@
         "lyric": "<div class='strophe'> <p>//No se turbe vuestro corazón,//</p><p>En la casa de mi Padre muchas moradas hay;</p><p>En la casa de mi Padre muchas moradas hay.</p></div><div class='strophe'> <p>Creéis en Dios,</p><p>creed también en mí, Voy pues a preparar lugar</p><p>Para vosotros, para vosotros, Un lugar para vosotros.</p></div><div class='strophe'> <p>//No se turbe vuestro corazón,//</p><p>En la casa de mi Padre muchas moradas hay;</p><p>En la casa de mi Padre muchas moradas hay.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 567,
         "author": "E. Rodríguez",
         "year": "1933",
@@ -230,7 +230,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>En la mansión do Cristo está,</p><p>allí no habrá tribulación,</p><p>Ningún dolor, ningún pesar,</p><p>que me quebrante el corazón.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Allí no habrá tribulación,</p><p>ningún pesar, ningún dolor;</p><p>Feliz será mi corazón en la presencia del Señor.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Yo gozo cada día aquí</p><p>su protección y gran amor,</p><p>Pero es mejor estar allí</p><p>en la presencia del Señor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Allí no habrá tribulación,</p><p>ningún pesar, ningún dolor;</p><p>Feliz será mi corazón en la presencia del Señor.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Perfecto amor encontraré</p><p>con el Señor en su mansión;</p><p>Perfecta paz allí tendré,</p><p>con mi Jesús en comunión.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Allí no habrá tribulación,</p><p>ningún pesar, ningún dolor;</p><p>Feliz será mi corazón en la presencia del Señor.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Entonces, sí, yo gozaré</p><p>de toda la felicidad,</p><p>Y ya con Cristo estaré</p><p>por toda la eternidad.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Allí no habrá tribulación,</p><p>ningún pesar, ningún dolor;</p><p>Feliz será mi corazón en la presencia del Señor.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 568,
         "author": "Charles H. Gabriel",
         "year": "1900",
@@ -239,7 +239,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Cuando mis luchas terminen aquí</p><p>Y ya seguro en los cielos esté,</p><p>Cuando al Señor yo contemple allí,</p><p>¡Gloria por siempre será para mí!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Esa será (¡Esa será)</p><p>gloria sin fin, (gloria sin fin,)</p><p>Gloria sin fin, (Gloria sin fin,)</p><p>gloria sin fin! (gloria sin fin!)</p><p>Cuando por gracia su faz pueda ver,</p><p>¡Gloria por siempre por mí ha de ser!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Cuando por gracia yo pueda tener</p><p>En sus mansiones morada de paz,</p><p>Cuando por siempre su faz pueda ver,</p><p>¡Gloria por siempre será para mí!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Esa será (¡Esa será)</p><p>gloria sin fin, (gloria sin fin,)</p><p>Gloria sin fin, (Gloria sin fin,)</p><p>gloria sin fin! (gloria sin fin!)</p><p>Cuando por gracia su faz pueda ver,</p><p>¡Gloria por siempre por mí ha de ser!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Gozo infinito será contemplar</p><p>A los salvados que allí estarán,</p><p>Mas la presencia de Cristo gozar,</p><p>¡Gloria por siempre será para mí!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Esa será (¡Esa será)</p><p>gloria sin fin, (gloria sin fin,)</p><p>Gloria sin fin, (Gloria sin fin,)</p><p>gloria sin fin! (gloria sin fin!)</p><p>Cuando por gracia su faz pueda ver,</p><p>¡Gloria por siempre por mí ha de ser!</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 569,
         "author": "",
         "year": "",
@@ -248,7 +248,7 @@
         "lyric": "<div class='strophe'> <p>Sabemos que si nuestra casa terrenal, esta tiendatemporal, se deshace, tenemos un edificio de partede Dios, una casa no hecha de manos, eterna enlos cielos.</p></div><div class='chorus'> <p>Así vivimos, confiando siempre ycomprendiendo que durante nuestra estanciaen el cuerpo peregrinamos ausentes del Señor.</p></div><div class='strophe'> <p>Pues confiamos y consideramos mejor estarausentes del cuerpo, y estar presentes delantedel Señor.</p></div><div class='chorus'> <p>Por lo tanto, estemos presentes o ausentes,nuestro anhelo es serle agradables.</p></div><div class='strophe'> <p>El transformará nuestro cuerpo de humillaciónpara que tenga la misma forma de su cuerpo degloria, según la operación de su poder.</p></div><div class='chorus'> <p>Amados, ahora somos hijos de Dios,y aún no se ha manifestado lo que seremos.</p></div><div class='strophe'> <p>Pero sabemos que cuando él sea manifestado,seremos semejantes a él, porque le veremostal como él es.</p></div><div class='chorus'> <p>Pero ahora, Cristo sí ha resucitado de entrelos muertos, como primicias de los quedurmieron.</p></div><div class='strophe'> <p>He aquí, os digo un misterio: No todos dormiremos,pero todos seremos transformados</p></div><div class='chorus'> <p>En un instante, en un abrir y cerrar de ojos,a la trompeta final.</p></div><div class='strophe'> <p>Porque sonará la trompeta, y los muertos seránresucitados sin corrupción; y nosotros seremostransformados.</p></div><div class='chorus'> <p>Porque es necesario que esto corruptiblesea vestido de incorrupción, y que estomortal sea vestido de inmortalidad.</p></div><div class='strophe'> <p>Y cuando esto corruptible se vista de incorrupcióny esto mortal se vista de inmortalidad, entoncesse cumplirá la palabra que está escrita: ¡Sorbidaes la muerte en victoria!</p></div><div class='chorus'> <p>Pero gracias a Dios, quien nos da la victoriapor medio de nuestro Señor Jesucristo.</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 570,
         "author": "Eliza H. Hewitt",
         "year": "1898",
@@ -257,7 +257,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Alabanzas dad a Cristo, ensalzad al Redentor;</p><p>Tributadle, santos todos, grande gloria y loor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Cuando estemos en gloria,</p><p>(Cuando estemos en gloria,)</p><p>En presencia de nuestro Redentor,</p><p>(en presencia de nuestro Redentor,)</p><p>A una voz la historia</p><p>(a una voz la historia)</p><p>Diremos del gran Vencedor.</p><p>(del gran, del gran Vencedor).</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>La victoria es segura</p><p>a las huestes del Señor;</p><p>¡Oh, pelead con la mirada puesta en el Protector!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Cuando estemos en gloria,</p><p>(Cuando estemos en gloria,)</p><p>En presencia de nuestro Redentor,</p><p>(en presencia de nuestro Redentor,)</p><p>A una voz la historia</p><p>(a una voz la historia)</p><p>Diremos del gran Vencedor.</p><p>(del gran, del gran Vencedor).</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>¡Adelante en la lucha, oh soldados de la fe!</p><p>Por su gracia triunfaremos,</p><p>¡gloria a Cristo, nuestro Rey!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Cuando estemos en gloria,</p><p>(Cuando estemos en gloria,)</p><p>En presencia de nuestro Redentor,</p><p>(en presencia de nuestro Redentor,)</p><p>A una voz la historia</p><p>(a una voz la historia)</p><p>Diremos del gran Vencedor.</p><p>(del gran, del gran Vencedor).</p></div>"
       },
       {
-        "current": "app/assets/database/543-571.json",
+        "current": "https://abgmz.github.io/json-api-vnp/543-571.json",
         "number": 571,
         "author": "",
         "year": "",

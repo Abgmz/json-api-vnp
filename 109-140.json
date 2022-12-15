@@ -1,11 +1,11 @@
 [
   {
     "count": 652,
-    "next": "app/assets/database/141-172.json",
-    "previous": "app/assets/database/067-108.json",
+    "next": "https://abgmz.github.io/json-api-vnp/141-172.json",
+    "previous": "https://abgmz.github.io/json-api-vnp/067-108.json",
     "lyrics": [
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 109,
         "author": "",
         "year": "",
@@ -14,7 +14,7 @@
         "lyric": "<div class='strophe'> <p>José subió de Galilea,...a Belén, por cuanto era</p><p>de la casa y familia de David;</p></div><div class='chorus'> <p>para ser empadronado con María su mujer,</p><p>desposada con él, la cual estaba encinta.</p></div><div class='strophe'> <p>Y aconteció que estando ellos allí,</p><p>se cumplieron los días de su alumbramiento.</p></div><div class='chorus'> <p>Y dio a luz a su hijo primogénito, y lo envolvió</p><p>en pañales, y lo acostó en un pesebre,</p><p>porque no había lugar para ellos en el mesón.</p></div><div class='strophe'> <p>Había pastores en la misma región, que velaban y</p><p>guardaban las vigilias de la noche sobre su rebaño.</p></div><div class='chorus'> <p>Y he aquí, se les presentó un ángel del Señor,</p><p>y la gloria del Señor los rodeó de resplandor;</p><p>y tuvieron gran temor.</p></div><div class='strophe'> <p>Pero el ángel les dijo: No temáis; porque he aquí</p><p>os doy nuevas de gran gozo, que será para todo</p><p>el pueblo: Que os ha nacido hoy, en la ciudad</p><p>de David, un Salvador, que es CRISTO el Señor.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 110,
         "author": "David Pérez Cisneros",
         "year": "1972",
@@ -23,7 +23,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>// Y tú Belén, tierra de Judá, //</p><p>No eres pequeñita, pues de ti saldrá el Guiador.</p><p>No eres pequeñita, pues de ti saldrá el Guiador.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>// Promesa fiel el profeta dio, //</p><p>Y al tiempo en tus campos el Señor Jesús nació.</p><p>Y al tiempo en tus campos el Señor Jesús nació.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>// Dios ha mostrado su gran amor, //</p><p>¡Cantadle cielo y tierra y adorad al Salvador!</p><p>¡Cantadle cielo y tierra y adorad al Salvador!MEX</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 111,
         "author": "",
         "year": "",
@@ -32,7 +32,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Oh ven, oh ven, bendito Emanuel,</p><p>De la maldad rescata a Israel,</p><p>Que llora en triste desolación,</p><p>Y espera ansioso su liberación.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Cantad! ¡Cantad! Pues vuestro Emanuel</p><p>vendrá a ti muy pronto, Israel.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Oh ven, Sabiduría Celestial,</p><p>Y líbranos del mal a cada cual;</p><p>Corrígenos y haznos saber</p><p>Que con tu ayuda hemos de vencer.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Cantad! ¡Cantad! Pues vuestro Emanuel</p><p>vendrá a ti muy pronto, Israel.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Oh ven, oh ven, glorioso Rey de Sion,</p><p>Y ten tu trono en cada corazón;</p><p>Disipa toda la oscuridad,</p><p>Y enséñanos tu santa voluntad.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Cantad! ¡Cantad! Pues vuestro Emanuel</p><p>vendrá a ti muy pronto, Israel.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Oh ven, Mesías victorioso, ven</p><p>de nuevo a este mundo a reinar;</p><p>Destruye para siempre el mal,</p><p>Y reina aquí en gloria celestial.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Cantad! ¡Cantad! Pues vuestro Emanuel</p><p>vendrá a ti muy pronto, Israel.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 112,
         "author": "Bob McGee",
         "year": "1976",
@@ -41,7 +41,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Dios nos amó, a su Hijo dio,</p><p>Y lo nombró nuestro Emanuel.</p><p>La profecía fue en él cumplida;</p><p>Dios con nosotros, nuestro Emanuel.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Dios descendió y se encarnó;</p><p>Jesús nació, nuestro Emanuel.</p><p>Vino a salvarnos, vino a redimirnos;</p><p>Dios con nosotros, nuestro Emanuel.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 113,
         "author": "",
         "year": "",
@@ -50,7 +50,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Despunta el alba del nuevo día;</p><p>cantan las aves a su Creador.</p><p>Dan alabanza con alegría</p><p>a Jesucristo, nuestro Señor.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Ya nuestro Salvador ha venido;</p><p>a este mundo trajo la luz.</p><p>Es nuestro Redentor prometido.</p><p>¡Gloria al Mesías, Cristo Jesús!</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 114,
         "author": "Juan Bautista Cabrera",
         "year": "1887",
@@ -59,7 +59,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¡Suenen dulces himnos gratos al Señor,</p><p>Y óiganse en concierto universal!</p><p>Desde el alto cielo baja el Salvador</p><p>Para beneficio del mortal.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Gloria! ¡Gloria sea a nuestro Dios!</p><p>¡Gloria! Sí, cantemos a una voz,</p><p>Y el cantar de gloria que se oyó en Belén,</p><p>Sea nuestro cántico también.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Salte, de alegría lleno el corazón</p><p>La abatida y pobre humanidad;</p><p>Dios se compadece viendo su aflicción,</p><p>Y le muestra buena voluntad.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Gloria! ¡Gloria sea a nuestro Dios!</p><p>¡Gloria! Sí, cantemos a una voz,</p><p>Y el cantar de gloria que se oyó en Belén,</p><p>Sea nuestro cántico también.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Sientan nuestras almas noble gratitud</p><p>Hacia el que nos brinda redención;</p><p>Y a Jesús el Cristo, que nos da salud,</p><p>Tributemos nuestra adoración.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Gloria! ¡Gloria sea a nuestro Dios!</p><p>¡Gloria! Sí, cantemos a una voz,</p><p>Y el cantar de gloria que se oyó en Belén,</p><p>Sea nuestro cántico también.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 115,
         "author": "",
         "year": "",
@@ -68,7 +68,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Venid pastores, venid, oh</p><p>venid a Belén, oh venid al portal;</p><p>Yo no me voy de Belén sin al</p><p>Niño Jesús un momento adorar.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>*Y la estrella de Belén os guiará con su luz,</p><p>Hasta el humilde portal donde nació Jesús.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Venid pastores, venid, con gran gozo,</p><p>dejando en el campo la grey;</p><p>Oíd a los ángeles quienes</p><p>anuncian que hoy ha nacido el Rey.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>*Y la estrella de Belén os guiará con su luz,</p><p>Hasta el humilde portal donde nació Jesús.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 116,
         "author": "Phillips Brooks",
         "year": "1868",
@@ -77,7 +77,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¡Oh, pueblecito de Belén, durmiendo en dulce paz!</p><p>Los astros brillan sobre ti con suave claridad;</p><p>Mas en tus quietas calles hoy surge eterna luz,</p><p>Y la promesa de Emanuel se cumple en Jesús.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Al niño que ha nacido hoy el coro celestial</p><p>Entona con sonora voz un cántico triunfal.</p><p>¡El santo nacimiento, estrellas, proclamad;</p><p>A Dios el Rey cantad loor; honor y gloria dad!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Con celestial serenidad, desciende nuestro don;</p><p>Así concede Dios su amor a cada corazón;</p><p>No se oye su venida, mas el Señor vendrá</p><p>Al que le quiera recibir; con él habitará.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>El Santo Niño de Belén es nuestro Salvador,</p><p>Quien por su sangre perdonó el mal con tanto amor;</p><p>Unimos nuestras voces al coro angelical</p><p>Y proclamamos por doquier su gloria celestial.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 117,
         "author": "",
         "year": "",
@@ -86,7 +86,7 @@
         "lyric": "<div class='strophe'> <p>Porque un niño nos es nacido,</p><p>Porque un niño nos es nacido;</p><p>Porque un hijo ya nos es dado,</p><p>Y el principado sobre su hombro;</p></div><div class='strophe'> <p>Y se llamará su nombre Admirable,</p><p>Consejero, Dios fuerte;</p><p>Y se llamará su nombre</p><p>Padre eterno,</p><p>El Príncipe de paz.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 118,
         "author": "Isaac Watts",
         "year": "1719",
@@ -95,7 +95,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¡Al mundo paz, nació Jesús!</p><p>Nació ya nuestro Rey; el corazón ya tiene luz,</p><p>// Y paz su santa grey, // y paz, y paz su santa grey.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¡Al mundo paz, el Salvador</p><p>En tierra reinará! ya es feliz el pecador,</p><p>// Jesús perdón le da, // Jesús, Jesús perdón le da.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Al mundo él gobernará con gracia y con poder;</p><p>A las naciones mostrará</p><p>// Su amor y su poder, // Su amor, su amor y su poder.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 119,
         "author": "Juan Bautista Cabrera",
         "year": "1914",
@@ -104,7 +104,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¡Gloria a Dios en las alturas! Que mostró</p><p>su gran amor, dándoles a sus criaturas</p><p>un potente Salvador. Con los himnos de los santos</p><p>Hagan coro nuestros cantos de alabanza y gratitud,</p><p>Por la divinal salud, y digamos a una voz:</p><p>¡En los cielos gloria a Dios!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¡Gloria a Dios! la tierra cante al gozar</p><p>de su bondad, pues le brinda paz constante</p><p>En su buena voluntad. Toda tribu y lenguas todas</p><p>Al excelso eleven odas, por Jesús, Rey Emanuel,</p><p>Que les vino de Israel, y prorrumpan a una voz:</p><p>¡En los cielos gloria a Dios!</p></div <div class='strophe'> <span class='strophe__number'>3</span> <p>¡Gloria a Dios! la Iglesia entona,</p><p>rota al ver su esclavitud</p><p>por Jesús, que es su corona,</p><p>Su cabeza y plenitud. Vigilante siempre vive</p><p>y a la lucha se apercibe, mientras llega su solaz</p><p>En la gloria y plena paz, donde exclame a una voz:</p><p>¡En los cielos gloria a Dios!</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 120,
         "author": "Johannes D. Falk",
         "year": "1816",
@@ -113,7 +113,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¡Oh santísimo, felicísimo, grato tiempo de Navidad!</p><p>Al mundo perdido Cristo le ha nacido;</p><p>¡Alegría, alegría, cristiandad!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¡Oh santísimo, felicísimo, grato tiempo de Navidad!</p><p>Coros celestiales oyen los mortales;</p><p>¡Alegría, alegría, cristiandad!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>¡Oh santísimo, felicísimo, grato tiempo de Navidad!</p><p>Príncipe del cielo, danos tu consuelo;</p><p>¡Alegría, alegría, cristiandad!</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 121,
         "author": "Francisco Martínez de la Rosa",
         "year": "",
@@ -122,7 +122,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Venid, pastorcillos,</p><p>venid a adorar</p><p>Al Rey de los cielos que nace en Judá.</p><p>Sin ricas ofrendas podemos llegar,</p><p>Que el Niño prefiere la fe y la bondad.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Un rústico techo abrigo le da;</p><p>Por cuna un pesebre, por templo un portal;</p><p>En lecho de pajas incógnito está</p><p>Quien quiso a los astros su gloria prestar.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Hermoso lucero</p><p>le vino a anunciar,</p><p>Y magos de oriente buscándole van;</p><p>Delante se postran del Rey de Judá,</p><p>De incienso, oro y mirra tributo le dan.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 122,
         "author": "James Montgomery",
         "year": "1816",
@@ -131,7 +131,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Angeles, alzad el canto,</p><p>la noticia celebrad;</p><p>Proclamad al mundo entero</p><p>nuevas de consuelo y paz.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Adoremos, adoremos</p><p>al recién nacido Rey.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Oh, pastores que oísteis</p><p>el gran coro celestial,</p><p>El mensaje tan sublime</p><p>por doquiera anunciad.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Adoremos, adoremos</p><p>al recién nacido Rey.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Sabios, contemplad con gozo</p><p>de la estrella el fulgor,</p><p>Ese astro portentoso</p><p>que os guía al Salvador.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Adoremos, adoremos</p><p>al recién nacido Rey.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Fieles, todos adoradle</p><p>con humilde gratitud;</p><p>Todo honor y homenaje</p><p>tributad al Rey Jesús.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Adoremos, adoremos</p><p>al recién nacido Rey.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 123,
         "author": "Mary MacDonald",
         "year": "",
@@ -140,7 +140,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Ved al niñito en un pesebre,</p><p>Es Jesucristo, Hijo de Dios;</p><p>Todo el mundo canta alegre,</p><p>Pues él nos trae la salvación.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Desde los cielos a este mundo</p><p>Vino a nacer en pobre mesón;</p><p>Angeles cantan sus alabanzas;</p><p>Reyes le rinden adoración.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Ya se cumplieron las profecías,</p><p>Pues ha nacido el Redentor;</p><p>Démosle gloria y alabanza,</p><p>Porque merece todo honor.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 124,
         "author": "",
         "year": "1917",
@@ -149,7 +149,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Al rústico pesebre del niñito Jesús</p><p>Las estrellas del cielo le destellan su luz;</p><p>Fue pobre el establo donde Cristo nació,</p><p>Y humilde la cuna en que él descansó.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>El niño del pesebre es Jesús mi Señor,</p><p>Adorarle yo quiero con sincero amor;</p><p>Mi corazón pequeño hoy su cuna será,</p><p>Y allí Jesucristo bienvenida tendrá.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 125,
         "author": "Villancico alemán",
         "year": "",
@@ -158,7 +158,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Cristianos, hoy cantad a Dios</p><p>con alma, corazón y voz; Grata nueva proclamad:</p><p>¡Cantad! Jesucristo vino ya.</p><p>Ved al Niño sin temor, él es del mundo el Redentor;</p><p>Cristo ya nació, Cristo ya nació.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Cristianos, hoy cantad a Dios</p><p>con alma, corazón y voz; A la muerte no temáis;</p><p>¡Cantad! Jesucristo nos da paz.</p><p>El ofrece salvación a los que buscan su perdón;</p><p>Cristo nos salvó, Cristo nos salvó.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Cristianos, hoy cantad a Dios</p><p>con alma, corazón y voz; Las tinieblas conquistó;</p><p>¡Cantad! Jesucristo luz nos dio.</p><p>Homenaje tributad y gloria al Cordero dad;</p><p>Cristo reinará, Cristo reinará.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 126,
         "author": "Charles Wesley",
         "year": "1739",
@@ -167,7 +167,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Oíd un son en alta esfera:</p><p>“¡En los cielos gloria a Dios!</p><p>¡Y al mortal paz en la tierra!” canta la celeste voz.</p><p>Con los cielos alabemos al eterno Rey; cantemos</p><p>A Jesús que es nuestro bien, con el coro de Belén;</p><p>Canta la celeste voz: “¡En los cielos gloria a Dios!”</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>El Señor de los señores, el Ungido celestial,</p><p>Por salvar a pecadores toma forma corporal.</p><p>¡Gloria al Verbo encarnado, en humanidad velado!</p><p>¡Gloria a nuestro Redentor, a Jesús, Rey y Señor!</p><p>Canta la celeste voz: “¡En los cielos gloria a Dios!”</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Príncipe de paz eterna, gloria a ti, Señor Jesús;</p><p>Con tu vida y con tu muerte nos ofreces vida y luz.</p><p>Has tu majestad dejado,</p><p>a buscarnos te has dignado;</p><p>Para darnos el vivir, en la cruz fuiste a morir.</p><p>Canta la celeste voz: “¡En los cielos gloria a Dios!”</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 127,
         "author": "",
         "year": "",
@@ -176,7 +176,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>En la noche los pastores a sus ovejitas velan;</p><p>Angeles del cielo alaban,</p><p>ángeles del cielo cantan:</p><p>Pastorcitos, id, pastorcitos, ya</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Adorad al Niño, adorad al Niño,</p><p>Que en Belén está, que en Belén está.</p><p>Adorad al Niño, adorad al Niño,</p><p>Que en Belén está, que en Belén está.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Del oriente, Reyes Magos</p><p>siguen la brillante estrella;</p><p>Quieren ofrecer regalos, traen ricos aguinaldos,</p><p>Magos, oh venid, magos, oh llegad;</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Adorad al Niño, adorad al Niño,</p><p>Que en Belén está, que en Belén está.</p><p>Adorad al Niño, adorad al Niño,</p><p>Que en Belén está, que en Belén está.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Con alegre reverencia</p><p>en la bella Nochebuena,</p><p>Los cristianos hoy alaban, los cristianos todos cantan:</p><p>Pueblos, oh venid, pueblos, oh llegad;</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Adorad al Niño, adorad al Niño,</p><p>Que en Belén está, que en Belén está.</p><p>Adorad al Niño, adorad al Niño,</p><p>Que en Belén está, que en Belén está.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 128,
         "author": "William Dix",
         "year": "1865",
@@ -185,7 +185,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¿Qué niño es el que tierno</p><p>duerme en brazos de María?</p><p>El ángel a pastores da</p><p>las nuevas de alegría.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Es Cristo el Señor a quien</p><p>los cielos dan loor;</p><p>¡Nació el Salvador!</p><p>Jesús es el Mesías.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Con buey y asno en rudo</p><p>establo duerme el Rey divino;</p><p>Dios encarnado ha bajado;</p><p>a salvarnos vino.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Es Cristo el Señor a quien</p><p>los cielos dan loor;</p><p>¡Nació el Salvador!</p><p>Jesús es el Mesías.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Le traen oro, incienso y mirra</p><p>magos del oriente;</p><p>Mas quiere el don de un corazón</p><p>humilde y penitente.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Es Cristo el Señor a quien</p><p>los cielos dan loor;</p><p>¡Nació el Salvador!</p><p>Jesús es el Mesías.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 129,
         "author": "",
         "year": "1885",
@@ -194,7 +194,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Allá en el pesebre, do nace Jesús,</p><p>La cuna de paja nos vierte gran luz;</p><p>Estrellas lejanas del cielo al mirar</p><p>Se inclinan gozosas su lumbre a prestar.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Pastores del campo, teniendo temor,</p><p>Cercados de luz y de gran resplandor,</p><p>Acuden aprisa buscando a Jesús,</p><p>Nacido en pesebre, del mundo la luz.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Oh Cristo, pedimos hoy tu bendición,</p><p>Rogamos que atiendas a nuestra oración;</p><p>A todos, oh Cristo, nos muestras amor,</p><p>Nosotros te amamos también, Salvador.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 130,
         "author": "",
         "year": "",
@@ -203,7 +203,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Angeles cantando están tan dulcísima canción;</p><p>Las montañas su eco dan como fiel contestación.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Gloria, en lo alto gloria,</p><p>Gloria, en lo alto gloria a Dios.</p><p>(Gloria in excelsis Deo, Gloria in excelsis Deo.)</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Los pastores sin cesar sus loores dan a Dios;</p><p>Cuán glorioso es el cantar de su melodiosa voz.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Gloria, en lo alto gloria,</p><p>Gloria, en lo alto gloria a Dios.</p><p>(Gloria in excelsis Deo, Gloria in excelsis Deo.)</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Oh, venid pronto a Belén para contemplar con fe</p><p>A Jesús, autor del bien, al recién nacido Rey.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Gloria, en lo alto gloria,</p><p>Gloria, en lo alto gloria a Dios.</p><p>(Gloria in excelsis Deo, Gloria in excelsis Deo.)</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 131,
         "author": "Mary Cappeau de Roquemaure",
         "year": "1847",
@@ -212,7 +212,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Santa la noche, hermosas las estrellas,</p><p>La noche cuando nació el Señor.</p><p>El mundo envuelto estuvo en sus querellas</p><p>Hasta que Dios nos mandó al Salvador.</p><p>Una esperanza todo el mundo siente,</p><p>La luz de un nuevo día sin igual;</p><p>Con gratitud postrados adoradle;</p><p>Oíd de lo alto la voz angelical;</p><p>¡Oíd, cantad! Nació el Salvador.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Hoy por la fe llegamos al pesebre</p><p>A contemplar al bendito Jesús,</p><p>Como también los magos del oriente</p><p>Llegaron guiados por célica luz.</p><p>Fue por nacer así humildemente</p><p>Que nuestras pruebas sabe comprender;</p><p>Hoy Emanuel es “Dios ya con nosotros”;</p><p>Cantemos al Rey, a Jesús el Salvador;</p><p>¡Regocijad! Nació el Redentor.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Nos enseñó a amarnos tiernamente,</p><p>Nos dio su ley de amor y su paz.</p><p>Libra al esclavo que en cadenas gime,</p><p>Y a su nombre huirá Satanás.</p><p>Con cánticos de gozo alabemos</p><p>Al Rey de reyes, nuestro Salvador;</p><p>Hoy con amor cantemos reverentes;</p><p>Alcemos la voz proclamando su poder,</p><p>¡Dad gloria a Dios! Amén, por siempre amén.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 132,
         "author": "Christoph von Schmid",
         "year": "1811",
@@ -221,7 +221,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Oh, niños de todos los pueblos venid;</p><p>Los cantos de ángeles miles oíd.</p><p>En un pueblecito, llamado Belén,</p><p>El Hijo de Dios ha nacido recién.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Mirad sobre el heno al niño Jesús;</p><p>Le adoran pastores que han visto gran luz;</p><p>Brillando en el cielo con gran claridad,</p><p>Señal fue que Dios ama al mundo en verdad.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Los magos de oriente le ofrecen loor;</p><p>Proclaman los ángeles gloria al Señor.</p><p>José y María le adoran también;</p><p>Oh niños, cantad a Jesús de Belén.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Oh, niños de todos los pueblos venid;</p><p>Con huestes celestes la nueva esparcid.</p><p>Felices, unid vuestras voces de amor;</p><p>Alegre anunciad que nació el Salvador.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 133,
         "author": "Joseph Mohr",
         "year": "1818",
@@ -230,7 +230,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¡Noche de paz, noche de amor!</p><p>Todo duerme en derredor.</p><p>Entre los astros que esparcen su luz,</p><p>Bella anunciando al niñito Jesús,</p><p>Brilla la estrella de paz,</p><p>Brilla la estrella de paz.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¡Noche de paz, noche de amor!</p><p>Oye humilde el fiel pastor</p><p>Coros celestes que anuncian salud,</p><p>Gracias y glorias en gran plenitud,</p><p>Por nuestro buen Redentor,</p><p>Por nuestro buen Redentor.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>¡Noche de paz, noche de amor!</p><p>Ved qué bello resplandor</p><p>Luce en el rostro del niño Jesús,</p><p>En el pesebre, del mundo la luz,</p><p>Astro de eterno fulgor,</p><p>Astro de eterno fulgor.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 134,
         "author": "Oscar López M.",
         "year": "1968",
@@ -239,7 +239,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Nuestra patria canta alegre</p><p>en el tiempo de la Navidad;</p><p>Pues ya sabe que en pesebre Jesús trajo la libertad.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Hoy gozosos celebremos</p><p>la venida del Señor;</p><p>Elevemos nuestro canto al Niñito de Belén.</p><p>A tocar nuestros instrumentos,</p><p>Celebremos la fiesta de amor;</p><p>Qué gloriosos son estos momentos:</p><p>¡Cristo Jesús nació!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Hay colores y aromas</p><p>que anuncian la gran Navidad;</p><p>En los valles y las lomas</p><p>Jesús nos da felicidad.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Hoy gozosos celebremos</p><p>la venida del Señor;</p><p>Elevemos nuestro canto al Niñito de Belén.</p><p>A tocar nuestros instrumentos,</p><p>Celebremos la fiesta de amor;</p><p>Qué gloriosos son estos momentos:</p><p>¡Cristo Jesús nació!</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 135,
         "author": "",
         "year": "",
@@ -248,7 +248,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>En Belén nació Jesús, Aleluya;</p><p>A los hombres trajo luz, Aleluya.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>En lo alto gloria a Dios, Aleluya;</p><p>En lo alto gloria a Dios, Aleluya.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Por nosotros él murió, Aleluya;</p><p>Con poder resucitó, Aleluya.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>En lo alto gloria a Dios, Aleluya;</p><p>En lo alto gloria a Dios, Aleluya.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Cristo salva al pecador, Aleluya;</p><p>Si confía en su amor, Aleluya.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>En lo alto gloria a Dios, Aleluya;</p><p>En lo alto gloria a Dios, Aleluya.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>A vivir con él iré, Aleluya;</p><p>En su amor me gozaré, Aleluya.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>En lo alto gloria a Dios, Aleluya;</p><p>En lo alto gloria a Dios, Aleluya.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 136,
         "author": "Effie Chastain de Naylor",
         "year": "1927",
@@ -257,7 +257,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Campanas por doquier resuenan sin cesar;</p><p>Proclaman con placer que hoy es Navidad.</p><p>Los niños con canción la grata nueva dan</p><p>De este día de amor y buena voluntad.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// ¡Navidad! ¡Navidad! ¡Hoy es Navidad!</p><p>Es un día de alegría y felicidad. //</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>El Niño de Belén nos trae la salvación;</p><p>Con júbilo sin par se entona la canción.</p><p>Yo te amo, mi Jesús; tus glorias cantaré;</p><p>En este día tan feliz me regocijaré.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// ¡Navidad! ¡Navidad! ¡Hoy es Navidad!</p><p>Es un día de alegría y felicidad. //</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 137,
         "author": "",
         "year": "",
@@ -266,7 +266,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>De tierra lejana venimos a verle;</p><p>Nos sirve de guía la estrella de Oriente.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Oh brillante estrella</p><p>que anuncias la aurora,</p><p>No nos falte nunca tu luz bienhechora.</p><p>¡Gloria en las alturas al Hijo de Dios!</p><p>¡Gloria en las alturas y en la tierra paz!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Al recién nacido, quien es Rey de reyes,</p><p>Oro le regalo para ornar sus sienes.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Oh brillante estrella</p><p>que anuncias la aurora,</p><p>No nos falte nunca tu luz bienhechora.</p><p>¡Gloria en las alturas al Hijo de Dios!</p><p>¡Gloria en las alturas y en la tierra paz!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Como es Dios el Niño, le regalo incienso</p><p>Con aroma dulce que sube hasta el cielo.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Oh brillante estrella</p><p>que anuncias la aurora,</p><p>No nos falte nunca tu luz bienhechora.</p><p>¡Gloria en las alturas al Hijo de Dios!</p><p>¡Gloria en las alturas y en la tierra paz!</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Al Niño del cielo que bajó a la tierra</p><p>Le regalo mirra que inspira tristeza.P.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Oh brillante estrella</p><p>que anuncias la aurora,</p><p>No nos falte nunca tu luz bienhechora.</p><p>¡Gloria en las alturas al Hijo de Dios!</p><p>¡Gloria en las alturas y en la tierra paz!</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 138,
         "author": "Catalina Bardwell de Noble",
         "year": "1950",
@@ -275,7 +275,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Tras hermoso lucero, los magos viajaban</p><p>pensando a palacio llegar.</p><p>Y llevaban regalos preciosos al</p><p>Rey que deseaban venir a adorar.</p><p>Al llegar a Belén ¡ved qué bella!</p><p>Al llegar a Belén ¡ved la estrella!</p><p>Con su luz alumbraba un establo y allí,</p><p>En el heno dormía el gran Rey.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>En el campo pastores cuidaban ovejas</p><p>y vieron un gran resplandor.</p><p>Luego el ángel del cielo les dijo:</p><p>“Os doy nuevas que hoy nació el Salvador”.</p><p>Muchos ángeles bellos cantaron</p><p>Al Señor, al Eterno alabaron.</p><p>Los pastores buscaron al Niño y allí,</p><p>En el heno dormía el gran Rey.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Ofrecieron los magos al Niño Jesús</p><p>ricos dones con gran devoción.</p><p>Los pastores humildes le dieron</p><p>cariño de tierno y de fiel corazón.</p><p>Yo también, oh Jesús, hoy me acerco;</p><p>Yo también, oh Jesús, hoy te adoro,</p><p>Y te ofrezco mi vida, regalo de amor;</p><p>¡Haz en ella tu trono, mi Rey!</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 139,
         "author": "Emily Steele Elliot",
         "year": "1864",
@@ -284,7 +284,7 @@
         "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Tú dejaste tu trono y corona por mí,</p><p>Al venir a Belén a nacer;</p><p>Mas a ti no fue dado el entrar al mesón,</p><p>Y en pesebre te hicieron nacer.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Alabanzas celestes los ángeles dan</p><p>En que rinden al Verbo loor;</p><p>Mas humilde viniste a la tierra, Señor,</p><p>A dar vida al más vil pecador.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Siempre pueden las zorras sus cuevas tener,</p><p>Y las aves sus nidos también;</p><p>Mas el Hijo del Hombre no tuvo un lugar</p><p>En el cual reclinara su sien.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Tú viniste, Señor, con tu gran bendición</p><p>Para dar libertad y salud;</p><p>Mas con odio y desprecio te hicieron morir,</p><p>Aunque vieron tu amor y virtud.</p></div><div class='strophe'> <span class='strophe__number'>5</span> <p>Alabanzas sublimes los cielos darán,</p><p>Cuando vengas glorioso de allí,</p><p>Y tu voz en las nubes dirá: “Ven a mí,</p><p>Que hay lugar junto a mí para ti”.</p></div>"
       },
       {
-        "current": "app/assets/database/109-140.json",
+        "current": "https://abgmz.github.io/json-api-vnp/109-140.json",
         "number": 140,
         "author": "John F. Wade",
         "year": "1743",
