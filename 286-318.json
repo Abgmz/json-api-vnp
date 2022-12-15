@@ -1,0 +1,306 @@
+[
+  {
+    "count": 652,
+    "next": "app/assets/database/319-350.json",
+    "previous": "app/assets/database/268-285.json",
+    "lyrics": [
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 286,
+        "author": "Isabel P. Balderas",
+        "year": "",
+        "title": "Oh, Señor, procuro en vano",
+        "verse": "No hago el bien que quiero, sino el mal que no quiero, eso hago. Romanos 7:19",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Oh, Señor, procuro en vano mi conducta reformar,</p><p>Pues ningún poder humano</p><p>santidad me puede dar.</p><p>Es mi vida de pecado diaria ofensa para ti;</p><p>Pero mi alma ha confiado en tu sangre carmesí.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>En tu reino está el contento;</p><p>nada impuro allí entrará;</p><p>Sin el nuevo nacimiento ninguna alma lo verá.</p><p>Mira, pues, mi insuficiencia,</p><p>muestra en mí tu gran poder;</p><p>Manifiesta tu clemencia y de nuevo hazme nacer.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Ven, Espíritu divino; ven y escucha mi oración;</p><p>Ante ti mi frente inclino</p><p>por mi regeneración.</p><p>No vacilo en la esperanza; he llegado a creer</p><p>Que la bienaventuranza</p><p>en el cielo he de tener.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 287,
+        "author": "",
+        "year": "",
+        "title": "Por fe en Jesús, el Salvador",
+        "verse": "Cree en el Señor Jesucristo, y serás salvo. Hechos 16:31",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Por fe en Jesús, el Salvador, se hace salvo el pecador;</p><p>Sin merecer tan rico don, recibe plena salvación.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh, excelsa gracia del amor,</p><p>que Dios perdona al pecador!</p><p>Si presto está a confesar</p><p>sus culpas y en Jesús confiar;</p><p>No hay otro autor de salvación,</p><p>pues Cristo obró la redención.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>La vida antigua ya pasó, y todo nuevo se tornó;</p><p>Aquí cual peregrino es, hogar con Dios tendrá después.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh, excelsa gracia del amor,</p><p>que Dios perdona al pecador!</p><p>Si presto está a confesar</p><p>sus culpas y en Jesús confiar;</p><p>No hay otro autor de salvación,</p><p>pues Cristo obró la redención.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 288,
+        "author": "",
+        "year": "",
+        "title": "El camino romano",
+        "verse": "La dádiva de Dios es vida eterna en Cristo. Romanos 6:23",
+        "lyric": "<div class='strophe'> <p>Por cuanto todos pecaron, todos pecaron,</p><p>Y están destituidos de la gloria de Dios;</p><p>Por cuanto todos pecaron, todos pecaron</p><p>Y están destituidos de la gloria de Dios.</p><p>Porque la paga del pecado es muerte,</p><p>Mas la dádiva de Dios es vida,</p><p>Vida eterna en Cristo, Cristo Jesús Señor nuestro.</p></div><div class='strophe'> <p>Porque con el corazón,</p><p>con el corazón, se cree para justicia,</p><p>Mas con la boca se confiesa, la boca se confiesa,</p><p>Para salvación. Para salvación.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 289,
+        "author": "",
+        "year": "",
+        "title": "Oh, la sangre de Cristo",
+        "verse": "Lávame, y seré más blanco que la nieve. Salmo 51:7",
+        "lyric": "<div class='strophe'> <p>Oh, la sangre de Cristo,</p><p>Oh, la sangre de Cristo,</p><p>Oh, la sangre de Cristo de culpa me lavó.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 290,
+        "author": "Brus del Monte",
+        "year": "1970",
+        "title": "Cristo habita en mi corazón",
+        "verse": "Que habite Cristo por la fe en vuestros corazones. Efesios 3:17",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Cristo habita en mi corazón;</p><p>Río divino es su inundación;</p><p>Por ello paz y amor míos son; Cristo habita en mí.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Cristo conmigo, hermoso el don;</p><p>Horas pasamos en conversación;</p><p>Felicidad me da su comunión; Cristo habita en mí.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Quiero que Cristo controle mi ser;</p><p>Quiero que el mundo su amor pueda ver.</p><p>Quiero que él sea mi sumo placer; Cristo habita en mí.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 291,
+        "author": "",
+        "year": "",
+        "title": "Dios muestra su amor",
+        "verse": "Mas Dios muestra su amor para con nosotros. Romanos 5:8",
+        "lyric": "<div class='strophe'> <p>// Mas Dios muestra su amor para con nosotros</p><p>En que siendo aún pecadores, Cristo murió por nosotros. //</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 292,
+        "author": "",
+        "year": "",
+        "title": "Hay un solo Dios",
+        "verse": "Hay un solo Dios, y un solo mediador entre Dios y los hombres. 1 Timoteo 2:5",
+        "lyric": "<div class='strophe'> <p>Porque hay un solo Dios, y un solo mediador</p><p>Entre Dios y los hombres, Jesucristo el Redentor,</p><p>Quien se dio a sí mismo en rescate al pecador.</p><p>Ven, amigo, y acepta al Salvador.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 293,
+        "author": "",
+        "year": "",
+        "title": "Oh, bondad tan infinita",
+        "verse": "¡Cuán grande es tu bondad... para los que te temen! Salmo 31:19",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¡Oh, bondad tan infinita,</p><p>Hacia el mundo pecador,</p><p>Dios, en Cristo revelando</p><p>Su eternal y santo amor!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Es Jesús (Es Jesús)</p><p>Para mí, (para mí,)</p><p>La esperanza de salud;</p><p>Sólo en él (sólo en él)</p><p>Hallaré (hallaré) La divina plenitud.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Como el vasto firmamento,</p><p>Como el insondable mar,</p><p>Es la gracia salvadora</p><p>Que Jesús al alma da.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Es Jesús (Es Jesús)</p><p>Para mí, (para mí,)</p><p>La esperanza de salud;</p><p>Sólo en él (sólo en él)</p><p>Hallaré (hallaré) La divina plenitud.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Aunque fueran tus pecados</p><p>Rojos como el carmesí,</p><p>En el río del Calvario</p><p>Hay limpieza para ti.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Es Jesús (Es Jesús)</p><p>Para mí, (para mí,)</p><p>La esperanza de salud;</p><p>Sólo en él (sólo en él)</p><p>Hallaré (hallaré) La divina plenitud.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 294,
+        "author": "",
+        "year": "",
+        "title": "Cuán profundo es tu amor",
+        "verse": "De comprender... la profundidad... del amor de Cristo. Efesios 3:18-19",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Cuán profundo es tu amor,</p><p>(Cuán profundo es tu amor,)</p><p>no lo puedo comprender;</p><p>(no lo puedo comprender;)</p><p>Alto es para mí, (Alto es para mí,) ¡Cuán inmenso es!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Cuán profundo es tu amor, Dios de los cielos!</p><p>Más profundo que el mar</p><p>es tu gran amor; Alto es, (Alto es,)</p><p>inmenso es, (inmenso es,)</p><p>profundo es (profundo es) tu gran amor.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Siendo yo pecador, (Siendo yo pecador,)</p><p>te humillaste, Dios, por mí;</p><p>(te humillaste, Dios, por mí;)</p><p>Lo hiciste en amor, (Lo hiciste en amor)</p><p>¡Cuán inmenso es!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Cuán profundo es tu amor, Dios de los cielos!</p><p>Más profundo que el mar</p><p>es tu gran amor; Alto es, (Alto es,)</p><p>inmenso es, (inmenso es,)</p><p>profundo es (profundo es) tu gran amor.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Viendo la inmensidad (Viendo la inmensidad)</p><p>y el poder de tu amor, (y el poder de tu amor,)</p><p>Sólo puedo decir: (Sólo puedo decir:)</p><p>¡Cuán inmenso es!</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Cuán profundo es tu amor, Dios de los cielos!</p><p>Más profundo que el mar</p><p>es tu gran amor; Alto es, (Alto es,)</p><p>inmenso es, (inmenso es,)</p><p>profundo es (profundo es) tu gran amor.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 295,
+        "author": "",
+        "year": "",
+        "title": "Dios al mundo amó",
+        "verse": "De tal manera amó Dios al mundo, que ha dado a su Hijo. Juan 3:16",
+        "lyric": "<div class='strophe'> <p>Dios al mundo amó; a su Hijo dio</p><p>para que todo aquel que cree en él</p><p style='margin-bottom: 1.9rem'>No se pierda, mas tenga vida eterna.</p><p style='font-style: italic'>Contramelodía:</p><p>Dios al mundo amó; a su Hijo dio</p><p>Para que todo aquel que cree en él</p><p>Vida eterna, vida eterna.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 296,
+        "author": "",
+        "year": "",
+        "title": "Nuestro Dios nos salvó",
+        "verse": "Nos salvó... por su misericordia. Tito 3:5",
+        "lyric": "<div class='strophe'> <p>Nuestro Dios nos salvó, no por obras</p><p>Que nosotros hubiéramos hecho,</p><p>Sino por su misericordia</p><p>Nos lavó y nos regeneró.</p><p>Nuestro Dios nos salvó, no por obras</p><p>Que nosotros hubiéramos hecho,</p><p>Sino por su misericordia</p><p style='margin-bottom: 1.8rem'>Por su Espíritu nos renovó.</p><p>Nuestro Dios nos salvó por su gracia,</p><p>Nuestro Dios nos salvó por su amor.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 297,
+        "author": "Miguel de Cervantes Saavedra",
+        "year": "",
+        "title": "A ti me vuelvo",
+        "verse": "",
+        "lyric": "<div class='strophe'> <p>A ti me vuelvo, gran Señor que alzaste</p><p>a costa de tu sangre y de tu vida</p><p>la mísera de Adán primer caída,</p><p>y adonde él nos perdió nos recobraste;</p></div><div class='strophe'> <p>A ti, Pastor bendito, que buscaste</p><p>de las cien ovejuelas la perdida,</p><p>hallándola del lobo perseguida,</p><p>sobre tus hombros santos te la echaste.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 298,
+        "author": "Robert Lowry",
+        "year": "1876",
+        "title": "¿Qué me puede dar perdón?",
+        "verse": "Sin derramamiento de sangre no se hace remisión. Hebreos 9:22",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¿Qué me puede dar perdón?</p><p>Sólo de Jesús la sangre;</p><p>¿Y un nuevo corazón? Sólo de Jesús la sangre.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Precioso es el raudal</p><p>Que limpia todo mal;</p><p>No hay otro manantial,</p><p>Sólo de Jesús la sangre.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Fue el rescate eficaz, sólo de Jesús la sangre;</p><p>Trajo santidad y paz, sólo de Jesús la sangre.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Precioso es el raudal</p><p>Que limpia todo mal;</p><p>No hay otro manantial,</p><p>Sólo de Jesús la sangre.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Veo para mi salud, sólo de Jesús la sangre;</p><p>Tiene de sanar virtud, sólo de Jesús la sangre.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Precioso es el raudal</p><p>Que limpia todo mal;</p><p>No hay otro manantial,</p><p>Sólo de Jesús la sangre.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Cantaré junto a sus pies,</p><p>Sólo de Jesús la sangre;</p><p>El Cordero digno es, sólo de Jesús la sangre.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Precioso es el raudal</p><p>Que limpia todo mal;</p><p>No hay otro manantial,</p><p>Sólo de Jesús la sangre.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 299,
+        "author": "Phoebe Palmer Knapp",
+        "year": "1873",
+        "title": "Por fe contemplo redención",
+        "verse": "Mas el justo por su fe vivirá. Habacuc 2:4",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Por fe contemplo redención,</p><p>la fuente carmesí;</p><p>Jesús nos da la salvación; su vida dio por mí.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>La fuente sin igual hallé,</p><p>De vida y luz el manantial;</p><p>¡Oh, gloria a Dios, me limpia a mí,</p><p>Me limpia a mí, me limpia a mí!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Mi vida entrego a mi Jesús;</p><p>Las dudas él quitó;</p><p>Mi alma goza en su luz, mis deudas él pagó.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>La fuente sin igual hallé,</p><p>De vida y luz el manantial;</p><p>¡Oh, gloria a Dios, me limpia a mí,</p><p>Me limpia a mí, me limpia a mí!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>¡Cuán inefable gozo es</p><p>Saber que salvo soy!</p><p>Mi Rey aquí es mi Jesús; al cielo sé que voy.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>La fuente sin igual hallé,</p><p>De vida y luz el manantial;</p><p>¡Oh, gloria a Dios, me limpia a mí,</p><p>Me limpia a mí, me limpia a mí!</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>¡Oh, gracia excelsa de mi Dios!</p><p>Profundo es el amor de mi Jesús, divina luz,</p><p>Cordero Redentor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>La fuente sin igual hallé,</p><p>De vida y luz el manantial;</p><p>¡Oh, gloria a Dios, me limpia a mí,</p><p>Me limpia a mí, me limpia a mí!</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 300,
+        "author": "John Newton",
+        "year": "1779",
+        "title": "Sublime Gracia",
+        "verse": "Siendo justificados...mediante la redención que es en Cristo Jesús. Romanos 3:24",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Sublime gracia del Señor</p><p>Que un infeliz salvó;</p><p>Fui ciego mas hoy miro yo,</p><p>Perdido y él me halló.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Su gracia me enseñó a temer;</p><p>Mis dudas ahuyentó;</p><p>¡Oh cuán precioso fue a mi ser</p><p>Cuando él me transformó!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>En los peligros o aflicción</p><p>Que yo he tenido aquí,</p><p>Su gracia siempre me libró</p><p>Y me guiará feliz.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Y cuando en Sion por siglos mil</p><p>Brillando esté cual sol,</p><p>Yo cantaré por siempre allí</p><p>Su amor que me salvó.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 301,
+        "author": "Isabel Lawrence",
+        "year": "1893",
+        "title": "¿Sabes dónde hay una fuente?",
+        "verse": "",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¿Sabes dónde hay una fuente</p><p>Pura de divino amor,</p><p>Cuyas aguas celestiales manan</p><p>con ferviente ardor?</p><p>Esta fuente inagotable, de eficacia y de valor</p><p>Es el Redentor bendito, el precioso Salvador.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Es Jesús la viva fuente,</p><p>donde he apagado yo</p><p>Esa sed que consumía mi cuitado corazón.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Esa fuente siempre pura, nunca su cristal perdió;</p><p>Y sus aguas refrescantes se te ofrecen, pecador.</p><p>Si sediento y fatigado a Jesús, la fuente, vas,</p><p>Satisfecho y aliviado al momento quedarás.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Es Jesús la viva fuente,</p><p>donde he apagado yo</p><p>Esa sed que consumía mi cuitado corazón.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>¡Oh! recibe pues su oferta, no rechaces, no, su amor;</p><p>Dile: “De esas aguas dame, y sabré su gran valor”.</p><p>Sin dinero, y sin precio, se te ofrece el grato don:</p><p>Vida eterna, paz y gozo, de tus culpas el perdón.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Es Jesús la viva fuente,</p><p>donde he apagado yo</p><p>Esa sed que consumía mi cuitado corazón.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 302,
+        "author": "Mylon L. LeFevre",
+        "year": "1963",
+        "title": "Sin Cristo yo no tengo nada",
+        "verse": "Si alguno está en Cristo, nueva criatura es. 2 Corintios 5:17",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Sin Cristo yo no tengo nada;</p><p>Sin Cristo no hay salvación;</p><p>Sin Cristo yo voy por la vida como barco sin timón.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Cristo, oh Cristo! Si has oído su voz,</p><p>su voz,</p><p>¡Oh Cristo, oh Cristo! con él seguro estoy.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Sin Cristo mi alma está muerta;</p><p>Sin Cristo esclavo yo soy;</p><p>Sin Cristo no hay esperanza, mas con él yo salvo soy.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Cristo, oh Cristo! Si has oído su voz,</p><p>su voz,</p><p>¡Oh Cristo, oh Cristo! con él seguro estoy.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 303,
+        "author": "W. F. Lakey y V. B. Ellis",
+        "year": "1957",
+        "title": "¿Sabes tú de Cristo?",
+        "verse": "Y esta es la vida eterna: que te conozcan a ti. Juan 17:3",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¿Vives cansado y triste?</p><p>¿Es grande tu aflicción?</p><p>¿Tu inquietud persiste?</p><p>¿Buscas feliz protección?</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¿Sabes tú de Cristo? (¿Sabes tú?)</p><p>¿Le conoces ya? (¿Le conoces ya?)</p><p>En su amor (en su amor) bendito</p><p>Salvación y poder te dará. (te dará.)</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¿A quién te acercas, dime,</p><p>Cuando te acosa el mal?</p><p>Y cuando tu alma gime, ¿Quién es tu paz eternal?</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¿Sabes tú de Cristo? (¿Sabes tú?)</p><p>¿Le conoces ya? (¿Le conoces ya?)</p><p>En su amor (en su amor) bendito</p><p>Salvación y poder te dará. (te dará.)</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>En tus desilusiones,</p><p>Tu llanto enjugará;</p><p>En rudas tentaciones, Tu ruego contestará.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¿Sabes tú de Cristo? (¿Sabes tú?)</p><p>¿Le conoces ya? (¿Le conoces ya?)</p><p>En su amor (en su amor) bendito</p><p>Salvación y poder te dará. (te dará.)</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 304,
+        "author": "Elisha A. Hoffman",
+        "year": "1878",
+        "title": "¿Has hallado en Cristo?",
+        "verse": "La sangre de Jesucristo...nos limpia de todo pecado. 1 Juan 1:7",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¿Has hallado en Cristo tu buen Salvador?</p><p>¿Eres salvo por la sangre de Jesús?</p><p>¿Por la fe descansas en el Redentor?</p><p>¿Eres salvo por la sangre de Jesús?</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Lávame, (Lávame,) lávame, (lávame,)</p><p>Lávame, (Lávame,) lávame, (lávame,)</p><p>Y con alma limpia me presentaré ante tu tribunal de luz.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¿Vives siempre al lado de tu Salvador?</p><p>¿Eres salvo por la sangre de Jesús?</p><p>¿Del pecado eres siempre vencedor?</p><p>¿Eres salvo por la sangre de Jesús?</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Lávame, (Lávame,) lávame, (lávame,)</p><p>Lávame, (Lávame,) lávame, (lávame,)</p><p>Y con alma limpia me presentaré ante tu tribunal de luz.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>¿Cuando él viniere te encontrarás</p><p>Ya lavado en la sangre de Jesús?</p><p>¿Para su venida preparado estás,</p><p>Ya lavado en la sangre de Jesús?</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Lávame, (Lávame,) lávame, (lávame,)</p><p>Lávame, (Lávame,) lávame, (lávame,)</p><p>Y con alma limpia me presentaré ante tu tribunal de luz.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Si perdón y paz deseas, pecador,</p><p>Tu refugio es la sangre de Jesús.</p><p>Si librarte quieres de eternal dolor,</p><p>Oh, acude a la sangre de Jesús.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Lávame, (Lávame,) lávame, (lávame,)</p><p>Lávame, (Lávame,) lávame, (lávame,)</p><p>Y con alma limpia me presentaré ante tu tribunal de luz.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 305,
+        "author": "Alfredo Colom M.",
+        "year": "1954",
+        "title": "Ven a los pies de Jesús",
+        "verse": "Y ellas, acercándose, abrazaron sus pies, y le adoraron. Mateo 28:9",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Ven a los pies de Jesús; Ven, no desprecies su cruz.</p><p>Ven por la senda de luz,</p><p>// Por la senda de luz que es tan sólo Jesús,</p><p>quien tomando su cruz, te brindó salvación;</p><p>Mira al Monte de Sion. //</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Oye la voz del Señor; Mira su inmenso dolor.</p><p>Piensa en que Dios es amor,</p><p>// En que Dios es amor; Sufrió intenso dolor</p><p>Por hacerte el favor de brindarte salud</p><p>En su gran plenitud. //</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Vuelve tus ojos a Dios; Vuelve, escucha su voz.</p><p>Y ya no más serán dos,</p><p>// Uno solo con Dios, uno solo con Dios;</p><p>Ven y busca veloz aquel bello país</p><p>Do serás más feliz. //</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Abrele tu corazón a quien te ofrece perdón,</p><p>Quien con su crucifixión</p><p>// Consumó redención, ofreciendo el perdón</p><p>y la consolación, pues él quiso morir</p><p>para hacernos vivir. //</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 306,
+        "author": "",
+        "year": "",
+        "title": "Sin Datos",
+        "verse": "",
+        "lyric": ""
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 307,
+        "author": "William J. Kirkpatrick",
+        "year": "",
+        "title": "Nuestra vida acabará",
+        "verse": "Por poco me persuades a ser cristiano. Hechos 26:28",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Nuestra vida acabará, cual las hojas caerá,</p><p>Cual el haz se ligará: busca a Dios.</p><p>Vuela cada día veloz y volando da su voz:</p><p>'Ven a dar tu cuenta a Dios'. Busca a Dios.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Busca a Dios, (Busca a Dios,)</p><p>busca a Dios; (busca a Dios;)</p><p>Entre tanto tengas tiempo, busca a Dios. (busca a Dios.)</p><p>Si te atreves a esperar, Dios la puerta cerrará</p><p>Y dirá, “Es tarde ya”. Busca a Dios.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Pierde el hombre su vigor, se marchita cual la flor,</p><p>Se disipa cual vapor: busca a Dios.</p><p>Como el río aprisa va hasta entrar al vasto mar,</p><p>Vas así a la eternidad: busca a Dios.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Busca a Dios, (Busca a Dios,)</p><p>busca a Dios; (busca a Dios;)</p><p>Entre tanto tengas tiempo, busca a Dios. (busca a Dios.)</p><p>Si te atreves a esperar, Dios la puerta cerrará</p><p>Y dirá, “Es tarde ya”. Busca a Dios.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Clama a Dios de corazón con sincera contrición;</p><p>Por Jesús Dios da perdón: busca a Dios.</p><p>Si no escuchas al Señor, si desprecias su perdón,</p><p>Te acarreas perdición: busca a Dios.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Busca a Dios, (Busca a Dios,)</p><p>busca a Dios; (busca a Dios;)</p><p>Entre tanto tengas tiempo, busca a Dios. (busca a Dios.)</p><p>Si te atreves a esperar, Dios la puerta cerrará</p><p>Y dirá, “Es tarde ya”. Busca a Dios.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 308,
+        "author": "Charlotte Elliott",
+        "year": "1834",
+        "title": "Tal como soy",
+        "verse": "El que por mí entrare, será salvo. Juan 10:9",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Tal como soy, de pecador,</p><p>Sin más confianza que tu amor,</p><p>Ya que me llamas, acudí;</p><p>Cordero de Dios, heme aquí.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Tal como soy, buscando paz</p><p>En mi desgracia y mal tenaz,</p><p>Conflicto grande siento en mí;</p><p>Cordero de Dios, heme aquí.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Tal como soy, me acogerás;</p><p>Perdón, alivio me darás,</p><p>Pues tu promesa ya creí;</p><p>Cordero de Dios, heme aquí.</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Tal como soy, tu compasión</p><p>Vencido ha toda oposición;</p><p>Ya pertenezco sólo a ti;</p><p>Cordero de Dios, heme aquí.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 309,
+        "author": "John W. Peterson",
+        "year": "1950",
+        "title": "Toma de la fuente de agua viva",
+        "verse": "El que bebiere del agua que yo le daré, no tendrá sed jamás. Juan 4:14",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Vagué sediento en el pecado abrumador,</p><p>Y nada a mi alma dio satisfacción;</p><p>Mas cuando fui a la cruz de</p><p>Cristo el Salvador,</p><p>Agua abundante halló mi corazón.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Toma de la fuente de agua viva,</p><p>fuente eternal, agua del raudal;</p><p>Toma de la fuente de agua viva,</p><p>fuente de agua viva celestial.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¡Oh cuán dulce raudal de Dios brotando está!</p><p>Felicidad y gozo me brindó.</p><p>En gloria, gracia y bendición mi vida irá;</p><p>por eso ¡Aleluya! canto yo.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Toma de la fuente de agua viva,</p><p>fuente eternal, agua del raudal;</p><p>Toma de la fuente de agua viva,</p><p>fuente de agua viva celestial.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Oh pecador ¿por qué a Jesús no vienes hoy</p><p>y así su agua de vida aceptar?</p><p>El dice, “Fuente de agua eterna y libre soy;</p><p>la sed de tu alma puedo aplacar”.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Toma de la fuente de agua viva,</p><p>fuente eternal, agua del raudal;</p><p>Toma de la fuente de agua viva,</p><p>fuente de agua viva celestial.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 310,
+        "author": "Pedro Castro Iriarte",
+        "year": "1886",
+        "title": "Pecador, ven a Cristo Jesús",
+        "verse": "Si alguno tiene sed, venga a mí y beba. Juan 7:37",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Pecador, ven a Cristo Jesús,</p><p>y feliz para siempre serás,</p><p>Que si tú le quisieres tener,</p><p>al divino Señor hallarás.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// Ven a él, (pecador,) ven a él, (pecador,)</p><p>Que te espera tu buen Salvador. //</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Si cual hijo que necio pecó,</p><p>vas buscando a sus pies compasión,</p><p>Tierno Padre en Jesús hallarás,</p><p>y tendrás en sus brazos perdón.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// Ven a él, (pecador,) ven a él, (pecador,)</p><p>Que te espera tu buen Salvador. //</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Si en pecado te sientes morir,</p><p>él será tu Doctor celestial,</p><p>Y hallarás en su sangre también</p><p>medicina que cure tu mal.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// Ven a él, (pecador,) ven a él, (pecador,)</p><p>Que te espera tu buen Salvador. //</p></div><div class='strophe'> <span class='strophe__number'>4</span> <p>Ovejuela que huyó del redil,</p><p>¡he aquí tu benigno Señor!</p><p>Y en los hombros llevada serás</p><p>de tan dulce y amante Pastor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// Ven a él, (pecador,) ven a él, (pecador,)</p><p>Que te espera tu buen Salvador. //</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 311,
+        "author": "Lewis E. Jones",
+        "year": "1899",
+        "title": "¿Quieres ser salvo?",
+        "verse": "En quien tenemos redención por su sangre. Colosenses 1:14",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>¿Quieres ser salvo de toda maldad?</p><p>Tan sólo hay poder en mi Jesús.</p><p>¿Quieres vivir y gozar santidad?</p><p>Tan sólo hay poder en Jesús.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Hay poder, (hay poder,) poder,</p><p>sin igual poder en Jesús (en Jesús)</p><p>quien murió; (quien murió;)</p><p>Hay poder, (hay poder,) poder,</p><p>sin igual poder en la sangre que él vertió.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¿Quieres ser libre de orgullo y pasión?</p><p>Tan sólo hay poder en mi Jesús.</p><p>¿Quieres vencer toda cruel tentación?</p><p>Tan sólo hay poder en Jesús.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Hay poder, (hay poder,) poder,</p><p>sin igual poder en Jesús (en Jesús)</p><p>quien murió; (quien murió;)</p><p>Hay poder, (hay poder,) poder,</p><p>sin igual poder en la sangre que él vertió.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>¿Quieres servir a tu Rey y Señor?</p><p>Tan sólo hay poder en mi Jesús.</p><p>Ven, y ser salvo podrás en su amor;</p><p>Tan sólo hay poder en Jesús.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Hay poder, (hay poder,) poder,</p><p>sin igual poder en Jesús (en Jesús)</p><p>quien murió; (quien murió;)</p><p>Hay poder, (hay poder,) poder,</p><p>sin igual poder en la sangre que él vertió.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 312,
+        "author": "George F. Root",
+        "year": "1870",
+        "title": "A Jesucristo ven sin tardar",
+        "verse": "Al que a mí viene, no le echo fuera. Juan 6:37",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>A Jesucristo ven sin tardar,</p><p>Que entre nosotros hoy él está,</p><p>Y te convida con dulce afán,</p><p>Tierno diciendo: “Ven”.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh cuán grata nuestra reunión</p><p>Cuando allá, Señor, en tu mansión,</p><p>Contigo estemos en comunión</p><p>Gozando eterno bien!</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Piensa que él sólo puede colmar</p><p>Tu triste pecho de gozo y paz,</p><p>Y porque anhela tu bienestar,</p><p>Vuelve a decirte: “Ven”.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh cuán grata nuestra reunión</p><p>Cuando allá, Señor, en tu mansión,</p><p>Contigo estemos en comunión</p><p>Gozando eterno bien!</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Su voz escucha sin vacilar,</p><p>Y grato acepta lo que hoy te da;</p><p>Tal vez mañana no habrá lugar;</p><p>No te detengas, ven.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>¡Oh cuán grata nuestra reunión</p><p>Cuando allá, Señor, en tu mansión,</p><p>Contigo estemos en comunión</p><p>Gozando eterno bien!</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 313,
+        "author": "Juan M. Isáis",
+        "year": "1960",
+        "title": "Ven amigo a Jesús",
+        "verse": "Por lo cual puede... salvar... a los que por él se acercan a Dios. Hebreos 7:25",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Ven amigo a Jesús, pues él murió por ti;</p><p>Recibirás la luz que quiere darte a ti.</p><p>Mi buen Jesús murió para darte perdón;</p><p>Abre tu corazón y dulce paz tendrás.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Día fatal vendrá cuando</p><p>no habrá lugar;</p><p>La puerta se abre hoy, y tú podrás entrar.</p><p>Más gracia ya no habrá,</p><p>pues despreciaste hoy;</p><p>Acepta, pecador, la salvación de Dios.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Las manos del Señor</p><p>se abren hoy para ti;</p><p>Ven y confía en él, y serás muy feliz.</p><p>Tus cuitas pon en Dios,</p><p>pues él las llevará;</p><p>Quitará tu pesar por su consolación.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Día fatal vendrá cuando</p><p>no habrá lugar;</p><p>La puerta se abre hoy, y tú podrás entrar.</p><p>Más gracia ya no habrá,</p><p>pues despreciaste hoy;</p><p>Acepta, pecador, la salvación de Dios.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 314,
+        "author": "Adán A. Calderón",
+        "year": "1956",
+        "title": "Vida nueva encontré",
+        "verse": "Dios... nos dio vida juntamente con Cristo. Efesios 2:4-5",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>// Ya mi vida se la debo a Jesús, porque él</p><p>Murió en la cruz por mí. //</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// Vida nueva encontré en la cruz de Jesús</p><p>Porque Cristo mi deuda pagó. //</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>// Yo me rindo a los pies de Jesús mi Señor,</p><p>Porque fui un infiel pecador. //</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// Vida nueva encontré en la cruz de Jesús</p><p>Porque Cristo mi deuda pagó. //</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>// Pecador, el Santo Espíritu te llama a ti;</p><p>Ven a Cristo y salvo serás. //</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>// Vida nueva encontré en la cruz de Jesús</p><p>Porque Cristo mi deuda pagó. //</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 315,
+        "author": "Juan Romero",
+        "year": "1969",
+        "title": "Visión Pastoral",
+        "verse": "¿No deja las noventa y nueve y va por los montes a buscar? Mateo 18:12",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Eran cien ovejas las de su rebaño;</p><p>Eran cien ovejas que amante cuidó,</p><p>Pero una tarde al contarlas todas,</p><p>Le faltaba una, le faltaba una y triste lloró.</p><p>Las noventa y nueve dejó en el aprisco,</p><p>Y por la montaña a buscarla fue;</p><p>La encontró llorando, temblando de frío;</p><p>Ungió sus heridas, la cargó en sus hombros</p><p>y al redil volvió.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Esta antigua historia vuelve a repetirse;</p><p>Hay aún ovejas que errabundas van;</p><p>Con el alma rota van por los collados,</p><p>Temblando de frío, vagando en el mundo,</p><p>sin Dios y sin luz. Pero todavía</p><p>existen pastores que por la montaña</p><p>a buscarlas van,</p><p>Y cuando las hallan, las traen al camino,</p><p>Al camino bueno, la verdad y vida</p><p>que es Cristo el Señor.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Si tú eres un alma que sufre angustia</p><p>De sentirse sola en cruel lobreguez,</p><p>Hoy te traigo nuevas, nuevas de gran gozo;</p><p>Es el evangelio que salva y redime</p><p>y te da la luz.</p><p>Sea en la montaña o en la cumbre agreste,</p><p>Ya fuera en el valle o en abismo cruel,</p><p>Cristo el buen Pastor quiere en pastos verdes</p><p>Confortar tu alma, vendar tus heridas</p><p>y darte la paz.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 316,
+        "author": "Fanny J. Crosby",
+        "year": "1883",
+        "title": "Con voz benigna",
+        "verse": "El Maestro está aquí y te llama. Juan 11:28",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Con voz benigna te llama Jesús:</p><p>invitación de puro amor.</p><p>¿Por qué le dejas en vano llamar?</p><p>¿Sordo serás, pecador?</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Hoy te convida, hoy te convida;</p><p>Voz bendecida,</p><p>benigna convídate hoy.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>A los cansados convida Jesús;</p><p>con compasión mira el dolor.</p><p>Tráele tu carga, te bendecirá;</p><p>te ayudará el Señor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Hoy te convida, hoy te convida;</p><p>Voz bendecida,</p><p>benigna convídate hoy.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Siempre aguardando</p><p>contempla a Jesús:</p><p>¡Tanto esperar, con tanto amor!</p><p>Hasta sus plantas ven, mísero, y trae</p><p>tu tentación, tu dolor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Hoy te convida, hoy te convida;</p><p>Voz bendecida,</p><p>benigna convídate hoy.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 317,
+        "author": "Juan M. Isáis",
+        "year": "1958",
+        "title": "Oh, Señor, recíbeme cual soy",
+        "verse": "Dios, ten piedad de mí, pecador. Lucas 18:13 (BLA)",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>Oh Señor, recíbeme cual soy,</p><p>ya no más, ya no quiero pecar.</p><p>Del pecado me quiero apartar;</p><p>Justifica mi ser, dame tu dulce paz</p><p>y tu gran bendición.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>Oh Señor, toma mi corazón</p><p>y hazlo tuyo por la eternidad.</p><p>Lléname de tu santa bondad,</p><p>Y en mi alma tú pon una nueva canción</p><p>de paz y dulce amor.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>Pecador, tú que vagas sin Dios,</p><p>ven ahora y acepta al Señor.</p><p>El te quiere impartir su perdón;</p><p>El te quiere salvar, él te quiere ayudar;</p><p>hoy acepta el perdón.</p></div>"
+      },
+      {
+        "current": "app/assets/database/286-318.json",
+        "number": 318,
+        "author": "Lucy J. Rider",
+        "year": "1884",
+        "title": "A los sedientos, venid",
+        "verse": "A todos los sedientos: Venid a las aguas. Isaías 55:1",
+        "lyric": "<div class='strophe'> <span class='strophe__number'>1</span> <p>A los sedientos, venid a las aguas,</p><p>Y los cansados, venid con valor;</p><p>Hay una fuente preciosa de vida</p><p>Que satisface del alma el clamor.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Aguas tendrá el que vive sediento;</p><p>Ríos habrá en el secadal;</p><p>Busca al Señor mientras puedes hallarlo;</p><p>Clama a él y salvado serás.</p></div><div class='strophe'> <span class='strophe__number'>2</span> <p>¿Vives atado a los goces del mundo?</p><p>¿Vives cansado de tanto vagar?</p><p>¿Hay en tu ser un anhelo profundo?</p><p>Ven a Jesús; él te quiere salvar.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Aguas tendrá el que vive sediento;</p><p>Ríos habrá en el secadal;</p><p>Busca al Señor mientras puedes hallarlo;</p><p>Clama a él y salvado serás.</p></div><div class='strophe'> <span class='strophe__number'>3</span> <p>A los creyentes se ofrece la gracia</p><p>Que satisface de toda ansiedad,</p><p>Que capacita, que limpia, que sacia:</p><p>Santa promesa de toda verdad.</p></div><div class='chorus'> <span class='chorus__title'>Coro</span> <p>Aguas tendrá el que vive sediento;</p><p>Ríos habrá en el secadal;</p><p>Busca al Señor mientras puedes hallarlo;</p><p>Clama a él y salvado serás.</p></div>"
+      }
+    ]
+  }
+]
